@@ -3,8 +3,9 @@
   "name": "markdown-reference",
   "title": "Markdown Reference",
   "description": "Markdown documentation at your fingertips",
-  "icon": "logo.png",
+  "icon": "assets/logo.png",
   "author": "almatkai",
+  "categories": ["Developer Tools"],
   "contributors": [
     "ridemountainpig"
   ],
