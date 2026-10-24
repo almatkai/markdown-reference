@@ -1,0 +1,359 @@
+{
+  "ownSource": "6933819bb52944ac5db4c517f932ffa24a95497e",
+  "betaSource": "fd300e276356587726566026f072563eb9c34cb1",
+  "upstreamSource": "6734d85992290066fd31a7f5bee3cca3d3545a1a",
+  "files": [
+    {
+      "path": "fixtures/beta/LICENSE",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "LICENSE",
+      "sha256": "0ed6b1b2760294d4aaaa45be38e166fcc0168e1dd5190423c096fcbe1c94afbf",
+      "bytes": 10750
+    },
+    {
+      "path": "fixtures/beta/docs/NATIVE_V2_FORMAT.md",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "docs/NATIVE_V2_FORMAT.md",
+      "sha256": "8bf9315ad047326dd6737587ca5491fc35faf5e3f92a2d9c63f596be0c8f7b7a",
+      "bytes": 2593
+    },
+    {
+      "path": "fixtures/beta/schemas/extension-v2.schema.json",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "schemas/extension-v2.schema.json",
+      "sha256": "6d5afda1b652605982104bdf16d1547547b98dfd707a7b2969316406c49f32af",
+      "bytes": 2420
+    },
+    {
+      "path": "fixtures/beta/src-tauri/src/native_core/common.rs",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src-tauri/src/native_core/common.rs",
+      "sha256": "280a0a2f0dd04a8570b320aafc0c3ece0f5de8ddb21c363645567d6a35d84da7",
+      "bytes": 7627
+    },
+    {
+      "path": "fixtures/beta/src-tauri/src/native_core/extensions/native.rs",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src-tauri/src/native_core/extensions/native.rs",
+      "sha256": "3192be6beccc110cd6daa22db412e0f90685957ec51b3c71103b78e239978691",
+      "bytes": 14551
+    },
+    {
+      "path": "fixtures/beta/src-tauri/src/native_core/extensions/v2_runtime.rs",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src-tauri/src/native_core/extensions/v2_runtime.rs",
+      "sha256": "df96675ba916a3d70b8e0e5da76f7a9422d238cc3fbe3a5a6178fef21662a6a0",
+      "bytes": 3110
+    },
+    {
+      "path": "fixtures/beta/src-tauri/src/native_core/extensions/v2_sdk.rs",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src-tauri/src/native_core/extensions/v2_sdk.rs",
+      "sha256": "4f987346f863db9a7bd6aa1d5a99e149925dc69a44d629727ccc80a567cd27c2",
+      "bytes": 6755
+    },
+    {
+      "path": "fixtures/beta/src-tauri/src/native_core/platform.rs",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src-tauri/src/native_core/platform.rs",
+      "sha256": "75fa7ce4204edbbdb0f4a5410895b32239939b707256c484dc3c4f9de390b5a1",
+      "bytes": 28906
+    },
+    {
+      "path": "fixtures/beta/src/renderer/ExtensionRuntimeView.tsx",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/renderer/ExtensionRuntimeView.tsx",
+      "sha256": "cfe15d50c89b0e57666604fea06327c3bd564ee2644404676a233149a025395d",
+      "bytes": 23694
+    },
+    {
+      "path": "fixtures/beta/src/renderer/colorConverter.ts",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/renderer/colorConverter.ts",
+      "sha256": "3ed3ae957716fe53918b20ed7c723088d7b95b4533beb1fd18fd9d7ad421202e",
+      "bytes": 8654
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/action-runtime-overlay.tsx",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/renderer/src/raycast-api/action-runtime-overlay.tsx",
+      "sha256": "3eb4a59db0de59460ea8a2c7f4a1f6ec5b514a512f49352bf373db64ed58d604",
+      "bytes": 2915
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/action-runtime-registry.tsx",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/renderer/src/raycast-api/action-runtime-registry.tsx",
+      "sha256": "ffbad6f70410c6d2dcf4af217abe4ab297d69c0cae2c993263c008a423175e16",
+      "bytes": 692
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/action-runtime.tsx",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/renderer/src/raycast-api/action-runtime.tsx",
+      "sha256": "6e7a41e3d1a7ee2028103683f08fb8ed20e4b2e5751e182afe9f8e189522a28b",
+      "bytes": 391
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/detail-runtime.tsx",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/renderer/src/raycast-api/detail-runtime.tsx",
+      "sha256": "32eecb50891e0f282bd3d78d8a38193ec24540bf70c3fdc8e43a1d368c97d54c",
+      "bytes": 23478
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/form-runtime.tsx",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/renderer/src/raycast-api/form-runtime.tsx",
+      "sha256": "8568d0ac5be03eea97d0def38067dbbbdce5ae97c36a51024857ef20dce299a6",
+      "bytes": 21087
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/grid-content.ts",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/renderer/src/raycast-api/grid-content.ts",
+      "sha256": "71cf7151e1986389b550cf5a069383af79b88de2726176859496ac40fd8d9d41",
+      "bytes": 761
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/grid-runtime.tsx",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/renderer/src/raycast-api/grid-runtime.tsx",
+      "sha256": "9c19dffaf9596814315f61d8a66eaa3b914a138d8f10c860e01efd245d3e2e5b",
+      "bytes": 15804
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/hooks.ts",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/renderer/src/raycast-api/hooks.ts",
+      "sha256": "50bb0c3ad3721f600abe3091f3adba1c6515c2d639356b20c94c7f5cc96a492b",
+      "bytes": 4050
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/index.tsx",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/renderer/src/raycast-api/index.tsx",
+      "sha256": "7fc8413a72b92e8f88b0939cd93f91624018fe0765baa1e71b38b86f8cc77a64",
+      "bytes": 7419
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/ipc-bridge.ts",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/renderer/src/raycast-api/ipc-bridge.ts",
+      "sha256": "17784548760d476efebeae36d5b03e9c50a69c2da2b92ce0163cabbfe9566d97",
+      "bytes": 1110
+    },
+    {
+      "path": "fixtures/beta/src/renderer/src/raycast-api/list-runtime.tsx",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/renderer/src/raycast-api/list-runtime.tsx",
+      "sha256": "c7e253c34ce6e0a5132cab96bf1f0388393faca79ff57c3fdc7956f377a0ab0f",
+      "bytes": 32174
+    },
+    {
+      "path": "fixtures/beta/src/renderer/ui/Markdown.tsx",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/renderer/ui/Markdown.tsx",
+      "sha256": "d205312b35293a433d5398e4edf1dcc96662cacd34036e8ee3ec503f65eee2de",
+      "bytes": 7492
+    },
+    {
+      "path": "fixtures/beta/src/renderer/ui/primitives.tsx",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/renderer/ui/primitives.tsx",
+      "sha256": "0bcedb2a1158a00ae7d4237f6ee875a58d9496e8576fb72ac78b79af82365044",
+      "bytes": 10545
+    },
+    {
+      "path": "fixtures/beta/src/shared/extensionRuntime.ts",
+      "repository": "https://github.com/almatkai/Tezbar",
+      "commit": "fd300e276356587726566026f072563eb9c34cb1",
+      "source": "src/shared/extensionRuntime.ts",
+      "sha256": "837b804856baa6b16ebda080920af456268fefcffa7a1c3e2964b95d697ee387",
+      "bytes": 3838
+    },
+    {
+      "path": "fixtures/own/CHANGELOG.md",
+      "repository": "https://github.com/almatkai/markdown-reference",
+      "commit": "6933819bb52944ac5db4c517f932ffa24a95497e",
+      "source": "CHANGELOG.md",
+      "sha256": "a9feeb60cbcacba80b9cf1c17c2192a8fae4a2293706069777d6f7d9e7db2eee",
+      "bytes": 313
+    },
+    {
+      "path": "fixtures/own/LICENSE",
+      "repository": "https://github.com/almatkai/markdown-reference",
+      "commit": "6933819bb52944ac5db4c517f932ffa24a95497e",
+      "source": "LICENSE",
+      "sha256": "1d7dbdbcd4fe14dfa08334fab20bffad23c1290f195792a3a4420dadf9912f81",
+      "bytes": 1087
+    },
+    {
+      "path": "fixtures/own/README.md",
+      "repository": "https://github.com/almatkai/markdown-reference",
+      "commit": "6933819bb52944ac5db4c517f932ffa24a95497e",
+      "source": "README.md",
+      "sha256": "ca42d2861140430826c1aa1d4162bcd057354a8774ff3eb4b09f00d8698a7f84",
+      "bytes": 139
+    },
+    {
+      "path": "fixtures/own/assets/list-icon.png",
+      "repository": "https://github.com/almatkai/markdown-reference",
+      "commit": "6933819bb52944ac5db4c517f932ffa24a95497e",
+      "source": "assets/list-icon.png",
+      "sha256": "b0afd4b2d6d3c77c6f67645488b02e11311049ba9ef80ec7870c7dfb7d8f366b",
+      "bytes": 1522
+    },
+    {
+      "path": "fixtures/own/assets/logo.png",
+      "repository": "https://github.com/almatkai/markdown-reference",
+      "commit": "6933819bb52944ac5db4c517f932ffa24a95497e",
+      "source": "assets/logo.png",
+      "sha256": "fe30cefd83f704a1b406a56c7b145676a62fee1f3733f1af68d9863dcd6f4a90",
+      "bytes": 8159
+    },
+    {
+      "path": "fixtures/own/package-lock.json",
+      "repository": "https://github.com/almatkai/markdown-reference",
+      "commit": "6933819bb52944ac5db4c517f932ffa24a95497e",
+      "source": "package-lock.json",
+      "sha256": "8dcd0ad592fbda3daef7abcd71f282a1ed579855b400615406bf231af8a0d7ba",
+      "bytes": 112321
+    },
+    {
+      "path": "fixtures/own/package.json",
+      "repository": "https://github.com/almatkai/markdown-reference",
+      "commit": "6933819bb52944ac5db4c517f932ffa24a95497e",
+      "source": "package.json",
+      "sha256": "fd5f3f3882832954f55742af35db88d17b06a3f46501f00bbbde06bc4494b8a7",
+      "bytes": 1491
+    },
+    {
+      "path": "fixtures/own/raycast-env.d.ts",
+      "repository": "https://github.com/almatkai/markdown-reference",
+      "commit": "6933819bb52944ac5db4c517f932ffa24a95497e",
+      "source": "raycast-env.d.ts",
+      "sha256": "609eeae002ea4be1ccc93aa413cfc8f8f63bb21da817904714b66764d10569d4",
+      "bytes": 697
+    },
+    {
+      "path": "fixtures/own/src/Reference.tsx",
+      "repository": "https://github.com/almatkai/markdown-reference",
+      "commit": "6933819bb52944ac5db4c517f932ffa24a95497e",
+      "source": "src/Reference.tsx",
+      "sha256": "6647952ea1b8fd55da3c4af4c31ee9b259d57605ae8bd308830cac2f9d8d9756",
+      "bytes": 1255
+    },
+    {
+      "path": "fixtures/own/src/markdown-escape.ts",
+      "repository": "https://github.com/almatkai/markdown-reference",
+      "commit": "6933819bb52944ac5db4c517f932ffa24a95497e",
+      "source": "src/markdown-escape.ts",
+      "sha256": "1062a415047aecdf0287bd34cecf1e5d58b522320cbc56a25c1f3dec2afbe973",
+      "bytes": 791
+    },
+    {
+      "path": "fixtures/own/src/markdown-reference.tsx",
+      "repository": "https://github.com/almatkai/markdown-reference",
+      "commit": "6933819bb52944ac5db4c517f932ffa24a95497e",
+      "source": "src/markdown-reference.tsx",
+      "sha256": "d497e2082bffe42c4624870790aabf46de7c4545572f5db9db48def2483fab2c",
+      "bytes": 1653
+    },
+    {
+      "path": "fixtures/own/src/markdownReference.ts",
+      "repository": "https://github.com/almatkai/markdown-reference",
+      "commit": "6933819bb52944ac5db4c517f932ffa24a95497e",
+      "source": "src/markdownReference.ts",
+      "sha256": "06059308d1644cfad49fb0c4041aeac0df6eb4e84a0be651d5c19969afb5e1c4",
+      "bytes": 14437
+    },
+    {
+      "path": "fixtures/own/test/smoke.test.ts",
+      "repository": "https://github.com/almatkai/markdown-reference",
+      "commit": "6933819bb52944ac5db4c517f932ffa24a95497e",
+      "source": "test/smoke.test.ts",
+      "sha256": "124426d76857f895961787f08c68e889c9d5f7c583d8220ab567fc43f6eb474d",
+      "bytes": 460
+    },
+    {
+      "path": "fixtures/own/tsconfig.json",
+      "repository": "https://github.com/almatkai/markdown-reference",
+      "commit": "6933819bb52944ac5db4c517f932ffa24a95497e",
+      "source": "tsconfig.json",
+      "sha256": "bb151e8c2e5442f6f9e42b27c08d88b0f7d2c5c127268ce0aedab2ef964b1eee",
+      "bytes": 525
+    },
+    {
+      "path": "fixtures/upstream/LICENSE",
+      "repository": "https://github.com/raycast/extensions",
+      "commit": "6734d85992290066fd31a7f5bee3cca3d3545a1a",
+      "source": "LICENSE",
+      "sha256": "7f727f8b20cdd0e65f84e70b9cac2fce337dcecee4dc88955eb012ea27f02755",
+      "bytes": 1064
+    },
+    {
+      "path": "fixtures/upstream/package.json",
+      "repository": "https://github.com/raycast/extensions",
+      "commit": "6734d85992290066fd31a7f5bee3cca3d3545a1a",
+      "source": "extensions/markdown-reference/package.json",
+      "sha256": "d61fd0a9ce1747f7b4a231f337a44950b1ed9ae7c03cbf36ffc8f96342bf2cca",
+      "bytes": 1037
+    },
+    {
+      "path": "fixtures/upstream/src/Reference.tsx",
+      "repository": "https://github.com/raycast/extensions",
+      "commit": "6734d85992290066fd31a7f5bee3cca3d3545a1a",
+      "source": "extensions/markdown-reference/src/Reference.tsx",
+      "sha256": "6647952ea1b8fd55da3c4af4c31ee9b259d57605ae8bd308830cac2f9d8d9756",
+      "bytes": 1255
+    },
+    {
+      "path": "fixtures/upstream/src/markdown-escape.ts",
+      "repository": "https://github.com/raycast/extensions",
+      "commit": "6734d85992290066fd31a7f5bee3cca3d3545a1a",
+      "source": "extensions/markdown-reference/src/markdown-escape.ts",
+      "sha256": "1062a415047aecdf0287bd34cecf1e5d58b522320cbc56a25c1f3dec2afbe973",
+      "bytes": 791
+    },
+    {
+      "path": "fixtures/upstream/src/markdown-reference.tsx",
+      "repository": "https://github.com/raycast/extensions",
+      "commit": "6734d85992290066fd31a7f5bee3cca3d3545a1a",
+      "source": "extensions/markdown-reference/src/markdown-reference.tsx",
+      "sha256": "d497e2082bffe42c4624870790aabf46de7c4545572f5db9db48def2483fab2c",
+      "bytes": 1653
+    },
+    {
+      "path": "fixtures/upstream/src/markdownReference.ts",
+      "repository": "https://github.com/raycast/extensions",
+      "commit": "6734d85992290066fd31a7f5bee3cca3d3545a1a",
+      "source": "extensions/markdown-reference/src/markdownReference.ts",
+      "sha256": "06059308d1644cfad49fb0c4041aeac0df6eb4e84a0be651d5c19969afb5e1c4",
+      "bytes": 14437
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+!fixtures/
+!fixtures/**
+!tests/
+!tests/**
+!tools/
+!tools/**
+!data/
+!data/**
+/target/
+/.build/
+**/target/
+**/node_modules/
+*.crate

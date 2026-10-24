@@ -1,0 +1,18 @@
+{
+  "license": "CC-BY-SA-4.0",
+  "evidence": [
+    {
+      "url": "https://www.markdownguide.org/about/",
+      "observed": "2026-10-24",
+      "statement": "Content: CC-BY-SA-4.0; underlying code: MIT",
+      "retrievedBy": "web search of official about page"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/spdx/license-list-data/v3.27.0/text/CC-BY-SA-4.0.txt",
+      "sha256": "cde7883b9050a1104f4ac19a1572aafd6e5d7323b68351aaf51fbf4beba54966",
+      "bytes": 18375,
+      "path": "licenses/CC-BY-SA-4.0.txt"
+    }
+  ],
+  "attribution": "Markdown Guide, Matt Cone and contributors, https://www.markdownguide.org/. Reference prose and examples match the Markdown Guide; attribution is retained on that basis. Source snapshots retain their original MIT notices. Adaptations: upstream subset and formatting, own pinned source subset, generated JSON representation and escaped presentation."
+}

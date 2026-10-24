@@ -1,0 +1,9 @@
+[package]
+name = "tauri"
+version = "0.0.0"
+edition = "2021"
+rust-version = "1.85"
+license = "MIT"
+[lib]
+test = false
+doctest = false

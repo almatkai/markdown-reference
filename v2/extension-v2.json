@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 2,
+  "id": "com.tezbar.native.markdown-reference",
+  "slug": "markdown-reference",
+  "name": "Markdown Reference",
+  "version": "0.2.0",
+  "description": "Markdown documentation at your fingertips. Original author: codedbyjordan; contributor: ridemountainpig. Own V1 port: almatkai.",
+  "icon": "/extensions/icons/markdown-reference.png",
+  "runtime": "rust",
+  "replaces": [
+    "raycast.markdown-reference"
+  ],
+  "platforms": [
+    "macOS",
+    "Windows"
+  ],
+  "commands": [
+    {
+      "name": "markdown-reference",
+      "title": "Search Markdown Syntax",
+      "description": "Quickly search up how to format with Markdown",
+      "mode": "view",
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust"
+    }
+  ],
+  "verification": [
+    {
+      "platform": "macOS",
+      "state": "not-run",
+      "note": "Real desktop UI, keyboard, clipboard and browser QA has not run."
+    },
+    {
+      "platform": "Windows",
+      "state": "not-run",
+      "note": "Real desktop UI, keyboard, clipboard and browser QA has not run."
+    }
+  ]
+}

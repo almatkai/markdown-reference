@@ -1,0 +1,3023 @@
+[
+  {
+    "ecosystem": "npm",
+    "name": "@asamuzakjp/css-color",
+    "version": "3.2.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@asamuzakjp/css-color/v/3.2.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@asamuzakjp__css-color-3.2.0/LICENSE",
+        "sha256": "1156c4bf9aa3982ff6157a4a8615906f225e4f46126dc41bf14df9aa7d74601b",
+        "bytes": 1092
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@csstools/color-helpers",
+    "version": "5.1.0",
+    "license": "MIT-0",
+    "source": "https://www.npmjs.com/package/@csstools/color-helpers/v/5.1.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@csstools__color-helpers-5.1.0/LICENSE.md",
+        "sha256": "947e32047a166cd05f04e45938d172b412c07cbee0b9735afd14bae30e02c2f6",
+        "bytes": 930
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@csstools/css-calc",
+    "version": "2.1.4",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@csstools/css-calc/v/2.1.4",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@csstools__css-calc-2.1.4/LICENSE.md",
+        "sha256": "d00d032f517721b45c56c70c46bf904ebb71ad313df4d4db7722266b38069665",
+        "bytes": 1111
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@csstools/css-color-parser",
+    "version": "3.1.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@csstools/css-color-parser/v/3.1.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@csstools__css-color-parser-3.1.0/LICENSE.md",
+        "sha256": "d00d032f517721b45c56c70c46bf904ebb71ad313df4d4db7722266b38069665",
+        "bytes": 1111
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@csstools/css-parser-algorithms",
+    "version": "3.0.5",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@csstools/css-parser-algorithms/v/3.0.5",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@csstools__css-parser-algorithms-3.0.5/LICENSE.md",
+        "sha256": "d00d032f517721b45c56c70c46bf904ebb71ad313df4d4db7722266b38069665",
+        "bytes": 1111
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@csstools/css-tokenizer",
+    "version": "3.0.4",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@csstools/css-tokenizer/v/3.0.4",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@csstools__css-tokenizer-3.0.4/LICENSE.md",
+        "sha256": "d00d032f517721b45c56c70c46bf904ebb71ad313df4d4db7722266b38069665",
+        "bytes": 1111
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@esbuild/darwin-arm64",
+    "version": "0.25.12",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@esbuild/darwin-arm64/v/0.25.12",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@esbuild__darwin-arm64-0.25.12/LICENSE.md",
+        "sha256": "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681",
+        "bytes": 1069,
+        "noticeSource": "esbuild@0.25.12"
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@esbuild/darwin-arm64",
+    "version": "0.27.7",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@esbuild/darwin-arm64/v/0.27.7",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@esbuild__darwin-arm64-0.27.7/LICENSE.md",
+        "sha256": "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681",
+        "bytes": 1069,
+        "noticeSource": "esbuild@0.27.7"
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@esbuild/darwin-arm64",
+    "version": "0.28.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@esbuild/darwin-arm64/v/0.28.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@esbuild__darwin-arm64-0.28.2/LICENSE.md",
+        "sha256": "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681",
+        "bytes": 1069,
+        "noticeSource": "esbuild@0.28.2"
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/ansi",
+    "version": "1.0.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/ansi/v/1.0.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__ansi-1.0.2/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/checkbox",
+    "version": "4.3.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/checkbox/v/4.3.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__checkbox-4.3.2/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/confirm",
+    "version": "5.1.21",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/confirm/v/5.1.21",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__confirm-5.1.21/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/core",
+    "version": "10.3.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/core/v/10.3.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__core-10.3.2/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/editor",
+    "version": "4.2.23",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/editor/v/4.2.23",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__editor-4.2.23/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/expand",
+    "version": "4.0.23",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/expand/v/4.0.23",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__expand-4.0.23/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/external-editor",
+    "version": "1.0.3",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/external-editor/v/1.0.3",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__external-editor-1.0.3/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/figures",
+    "version": "1.0.15",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/figures/v/1.0.15",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__figures-1.0.15/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/input",
+    "version": "4.3.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/input/v/4.3.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__input-4.3.1/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/number",
+    "version": "3.0.23",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/number/v/3.0.23",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__number-3.0.23/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/password",
+    "version": "4.0.23",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/password/v/4.0.23",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__password-4.0.23/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/prompts",
+    "version": "7.10.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/prompts/v/7.10.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__prompts-7.10.1/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/rawlist",
+    "version": "4.1.11",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/rawlist/v/4.1.11",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__rawlist-4.1.11/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/search",
+    "version": "3.2.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/search/v/3.2.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__search-3.2.2/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/select",
+    "version": "4.4.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/select/v/4.4.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__select-4.4.2/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@inquirer/type",
+    "version": "3.0.10",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@inquirer/type/v/3.0.10",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@inquirer__type-3.0.10/LICENSE",
+        "sha256": "85aca0b12ce5ade4ff76e9cbbe7e0d5a4cdde979e3930727c272e1fa04b8cc23",
+        "bytes": 1058
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@oclif/core",
+    "version": "4.14.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@oclif/core/v/4.14.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@oclif__core-4.14.0/LICENSE",
+        "sha256": "a9de3c39f8286ab8fe4a82da6e6272b402704876116b6307b10d67c4a189a87b",
+        "bytes": 1071
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@oclif/plugin-autocomplete",
+    "version": "3.3.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@oclif/plugin-autocomplete/v/3.3.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@oclif__plugin-autocomplete-3.3.0/LICENSE",
+        "sha256": "a9de3c39f8286ab8fe4a82da6e6272b402704876116b6307b10d67c4a189a87b",
+        "bytes": 1071
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@oclif/plugin-help",
+    "version": "6.3.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@oclif/plugin-help/v/6.3.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@oclif__plugin-help-6.3.0/LICENSE",
+        "sha256": "a9de3c39f8286ab8fe4a82da6e6272b402704876116b6307b10d67c4a189a87b",
+        "bytes": 1071
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@oclif/plugin-not-found",
+    "version": "3.3.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@oclif/plugin-not-found/v/3.3.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@oclif__plugin-not-found-3.3.0/LICENSE",
+        "sha256": "a9de3c39f8286ab8fe4a82da6e6272b402704876116b6307b10d67c4a189a87b",
+        "bytes": 1071
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@raycast/api",
+    "version": "1.104.25",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@raycast/api/v/1.104.25",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@raycast__api-1.104.25/LICENSE",
+        "sha256": "7f727f8b20cdd0e65f84e70b9cac2fce337dcecee4dc88955eb012ea27f02755",
+        "bytes": 1064,
+        "noticeSource": "https://github.com/raycast/extensions/blob/6734d85992290066fd31a7f5bee3cca3d3545a1a/LICENSE"
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@types/node",
+    "version": "24.19.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@types/node/v/24.19.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@types__node-24.19.2/LICENSE",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@types/react",
+    "version": "19.3.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@types/react/v/19.3.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@types__react-19.3.0/LICENSE",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@types/react-dom",
+    "version": "19.3.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@types/react-dom/v/19.3.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@types__react-dom-19.3.0/LICENSE",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "@types/trusted-types",
+    "version": "2.0.7",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/@types/trusted-types/v/2.0.7",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/@types__trusted-types-2.0.7/LICENSE",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "agent-base",
+    "version": "7.1.4",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/agent-base/v/7.1.4",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/agent-base-7.1.4/LICENSE",
+        "sha256": "8d8c55319c7729d57be811c747452636688d54f19701ee0752b6b15ad3771d9a",
+        "bytes": 1101
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "ajv",
+    "version": "8.17.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/ajv/v/8.17.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/ajv-8.17.1/LICENSE",
+        "sha256": "a05350a88e318e4f5f2c2a1ff1e2e88daa4dd38e6e78b71cccae422bdc762cc3",
+        "bytes": 1090
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "ansi-escapes",
+    "version": "4.3.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/ansi-escapes/v/4.3.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/ansi-escapes-4.3.2/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+        "bytes": 1117
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "ansi-regex",
+    "version": "5.0.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/ansi-regex/v/5.0.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/ansi-regex-5.0.1/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+        "bytes": 1109
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "ansi-styles",
+    "version": "4.3.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/ansi-styles/v/4.3.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/ansi-styles-4.3.0/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+        "bytes": 1109
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "ansis",
+    "version": "3.17.0",
+    "license": "ISC",
+    "source": "https://www.npmjs.com/package/ansis/v/3.17.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/ansis-3.17.0/LICENSE",
+        "sha256": "87ec186ac7438102db7ee5dae084510a81277ef631235c7712639c146c554737",
+        "bytes": 740
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "async",
+    "version": "3.2.6",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/async/v/3.2.6",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/async-3.2.6/LICENSE",
+        "sha256": "d9fed24f132985934fca621c4dc1dfb53e03377a24d0568d424383d7eaa9c0ac",
+        "bytes": 1063
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "balanced-match",
+    "version": "1.0.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/balanced-match/v/1.0.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/balanced-match-1.0.2/LICENSE.md",
+        "sha256": "a1bd5deadb6a06dd74efa852c1b8b23f63b67f2214fbe9c8bd591da51da69268",
+        "bytes": 1096
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "balanced-match",
+    "version": "4.0.4",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/balanced-match/v/4.0.4",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/balanced-match-4.0.4/LICENSE.md",
+        "sha256": "d408f38ffa3355c5faec517153295338892eb0f1ea43f57874bb23c6075979b5",
+        "bytes": 1155
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "brace-expansion",
+    "version": "2.1.7",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/brace-expansion/v/2.1.7",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/brace-expansion-2.1.7/LICENSE",
+        "sha256": "68f12f6e2c33688699249c01d8f9623c534da20aa71989c57b061b7bc1676d14",
+        "bytes": 1096
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "brace-expansion",
+    "version": "5.0.12",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/brace-expansion/v/5.0.12",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/brace-expansion-5.0.12/LICENSE",
+        "sha256": "9c63a23124d68cd30cd316a94a1a0bca34f032786df6df69fc4b5f136bac8d2e",
+        "bytes": 1144
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "chardet",
+    "version": "2.2.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/chardet/v/2.2.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/chardet-2.2.0/LICENSE",
+        "sha256": "04c53d57d2262d584caa8403251095d51df02146aa4628b6c01e63753bc64b3d",
+        "bytes": 1059
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "clean-stack",
+    "version": "3.0.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/clean-stack/v/3.0.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/clean-stack-3.0.1/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+        "bytes": 1117
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "cli-spinners",
+    "version": "2.9.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/cli-spinners/v/2.9.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/cli-spinners-2.9.2/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+        "bytes": 1117
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "cli-width",
+    "version": "4.1.0",
+    "license": "ISC",
+    "source": "https://www.npmjs.com/package/cli-width/v/4.1.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/cli-width-4.1.0/LICENSE",
+        "sha256": "31493c14dc0b4eb1e06fe5d4bab3ca4e3b40f8749433455c713863238600cf1a",
+        "bytes": 757
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "color-convert",
+    "version": "2.0.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/color-convert/v/2.0.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/color-convert-2.0.1/LICENSE",
+        "sha256": "693866fc419c6f61c8570438ec00659d156ec2b4d4a4d04091711f5f11a365d4",
+        "bytes": 1087
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "color-name",
+    "version": "1.1.4",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/color-name/v/1.1.4",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/color-name-1.1.4/LICENSE",
+        "sha256": "c064f7a3e353bc1bc977f3c897941c75ef763f44f41677e0a15370ca0853d6e2",
+        "bytes": 1085
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "cssstyle",
+    "version": "4.6.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/cssstyle/v/4.6.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/cssstyle-4.6.0/LICENSE",
+        "sha256": "768faff9f6908c78d848b18770b2a93e3361d6e2ee35edf45c6a5ddf1f7cb185",
+        "bytes": 1050
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "csstype",
+    "version": "3.2.3",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/csstype/v/3.2.3",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/csstype-3.2.3/LICENSE",
+        "sha256": "11d55bd4541c75ee7879547ac49089c489163dae49551389713c3d026cab383e",
+        "bytes": 1062
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "data-urls",
+    "version": "5.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/data-urls/v/5.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/data-urls-5.0.0/LICENSE.txt",
+        "sha256": "528eec83cb836a0adda9f8fc3d6a2a70a710d6cc0be9a155f92212c8df28acfa",
+        "bytes": 1069
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "debug",
+    "version": "4.4.3",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/debug/v/4.4.3",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/debug-4.4.3/LICENSE",
+        "sha256": "3a61c6c96caf5c1d9b623fb9b04c822b783dfcb78aa7e49c76a3f643e6ed7f95",
+        "bytes": 1139
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "decimal.js",
+    "version": "10.6.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/decimal.js/v/10.6.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/decimal.js-10.6.0/LICENCE.md",
+        "sha256": "3108b546bcff5d346923a82f48b2d252ca722f9088076db6d145f6b67757ad6c",
+        "bytes": 1104
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "dompurify",
+    "version": "3.2.6",
+    "license": "(MPL-2.0 OR Apache-2.0)",
+    "source": "https://www.npmjs.com/package/dompurify/v/3.2.6",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/dompurify-3.2.6/LICENSE",
+        "sha256": "1b02e03c3fb4f87d476c128f0eb9def1f5a1709d28b180465228bd41574623b7",
+        "bytes": 27729
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "ejs",
+    "version": "3.1.10",
+    "license": "Apache-2.0",
+    "source": "https://www.npmjs.com/package/ejs/v/3.1.10",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/ejs-3.1.10/LICENSE",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "bytes": 11358
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "ejs",
+    "version": "6.0.1",
+    "license": "Apache-2.0",
+    "source": "https://www.npmjs.com/package/ejs/v/6.0.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/ejs-6.0.1/LICENSE",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "bytes": 11358
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "emoji-regex",
+    "version": "8.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/emoji-regex/v/8.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/emoji-regex-8.0.0/LICENSE-MIT.txt",
+        "sha256": "483acb265f182907d1caf6cff9c16c96f31325ed23792832cc5d8b12d5f88c8a",
+        "bytes": 1077
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "entities",
+    "version": "6.0.1",
+    "license": "BSD-2-Clause",
+    "source": "https://www.npmjs.com/package/entities/v/6.0.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/entities-6.0.1/LICENSE",
+        "sha256": "cb992345949ccd6e8394b2cd6c465f7b897c864f845937dbf64e8997f389e164",
+        "bytes": 1260
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "esbuild",
+    "version": "0.25.12",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/esbuild/v/0.25.12",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/esbuild-0.25.12/LICENSE.md",
+        "sha256": "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681",
+        "bytes": 1069
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "esbuild",
+    "version": "0.27.7",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/esbuild/v/0.27.7",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/esbuild-0.27.7/LICENSE.md",
+        "sha256": "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681",
+        "bytes": 1069
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "esbuild",
+    "version": "0.28.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/esbuild/v/0.28.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/esbuild-0.28.2/LICENSE.md",
+        "sha256": "b40ec5baec7bb34fa5b1c09521fa3cd52d5fad7adafed74932a2010d3612a681",
+        "bytes": 1069
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "escape-string-regexp",
+    "version": "4.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/escape-string-regexp/v/4.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/escape-string-regexp-4.0.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+        "bytes": 1117
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "fast-deep-equal",
+    "version": "3.1.3",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/fast-deep-equal/v/3.1.3",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/fast-deep-equal-3.1.3/LICENSE",
+        "sha256": "7bf9b2de73a6b356761c948d0e9eeb4be6c1270bd04c79cd489c1e400ffdfc1a",
+        "bytes": 1074
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "fast-levenshtein",
+    "version": "3.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/fast-levenshtein/v/3.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/fast-levenshtein-3.0.0/LICENSE.md",
+        "sha256": "942a98cb8846a6354266193f173c1354615827fbb7d67f68399599dff12c4d6a",
+        "bytes": 1100
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "fast-uri",
+    "version": "3.1.9",
+    "license": "BSD-3-Clause",
+    "source": "https://www.npmjs.com/package/fast-uri/v/3.1.9",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/fast-uri-3.1.9/LICENSE",
+        "sha256": "b010b0dfdfdb23d7396e03b82cd4621fc9bb8f95d6b0aea70b9c24e12074c786",
+        "bytes": 1813
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "fastest-levenshtein",
+    "version": "1.0.16",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/fastest-levenshtein/v/1.0.16",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/fastest-levenshtein-1.0.16/LICENSE.md",
+        "sha256": "b8baf91be313643f3e87a01da77704b68e12795184a62e51e537a5a43c2932f3",
+        "bytes": 1072
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "fdir",
+    "version": "6.5.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/fdir/v/6.5.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/fdir-6.5.0/LICENSE",
+        "sha256": "9a39f2aadab11a3697edd668ff2d8ad885b649737b7ab4d3bf12b34e5ada0c86",
+        "bytes": 1053
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "filelist",
+    "version": "1.0.6",
+    "license": "Apache-2.0",
+    "source": "https://www.npmjs.com/package/filelist/v/1.0.6",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/filelist-1.0.6/LICENSE",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "bytes": 11358,
+        "noticeSource": "https://raw.githubusercontent.com/mde/filelist/v1.0.6/LICENSE"
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "fsevents",
+    "version": "2.3.3",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/fsevents/v/2.3.3",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/fsevents-2.3.3/LICENSE",
+        "sha256": "2a8a5d6197bb97a018b8a190dd3ed853d750ca87c8e80c17aad41d6c6ff448e1",
+        "bytes": 1133
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "get-package-type",
+    "version": "0.1.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/get-package-type/v/0.1.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/get-package-type-0.1.0/LICENSE",
+        "sha256": "24a4cce7958e3905080069a18952f1f35796fcd861b4c5686047f0a33faa21ed",
+        "bytes": 1068
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "has-flag",
+    "version": "4.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/has-flag/v/4.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/has-flag-4.0.0/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+        "bytes": 1109
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "highlight.js",
+    "version": "11.11.1",
+    "license": "BSD-3-Clause",
+    "source": "https://www.npmjs.com/package/highlight.js/v/11.11.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/highlight.js-11.11.1/LICENSE",
+        "sha256": "6c081431591d9df696c82dc598fe1423765b8a299b200ed00b281afd0f64c490",
+        "bytes": 1514
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "html-encoding-sniffer",
+    "version": "4.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/html-encoding-sniffer/v/4.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/html-encoding-sniffer-4.0.0/LICENSE.txt",
+        "sha256": "528eec83cb836a0adda9f8fc3d6a2a70a710d6cc0be9a155f92212c8df28acfa",
+        "bytes": 1069
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "http-proxy-agent",
+    "version": "7.0.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/http-proxy-agent/v/7.0.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/http-proxy-agent-7.0.2/LICENSE",
+        "sha256": "71368fd0f5b4129191e9afcd1e1ef2dc89a9090d3e4d80bbab92dafd032b3bef",
+        "bytes": 1102
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "https-proxy-agent",
+    "version": "7.0.6",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/https-proxy-agent/v/7.0.6",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/https-proxy-agent-7.0.6/LICENSE",
+        "sha256": "8d8c55319c7729d57be811c747452636688d54f19701ee0752b6b15ad3771d9a",
+        "bytes": 1101
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "iconv-lite",
+    "version": "0.6.3",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/iconv-lite/v/0.6.3",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/iconv-lite-0.6.3/LICENSE",
+        "sha256": "ac779f7314c74f232ef847ea86e714abe25cf6eeb5cc97b69451b74e2af6492d",
+        "bytes": 1064
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "iconv-lite",
+    "version": "0.7.3",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/iconv-lite/v/0.7.3",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/iconv-lite-0.7.3/LICENSE",
+        "sha256": "ac779f7314c74f232ef847ea86e714abe25cf6eeb5cc97b69451b74e2af6492d",
+        "bytes": 1064
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "indent-string",
+    "version": "4.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/indent-string/v/4.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/indent-string-4.0.0/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+        "bytes": 1109
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "is-docker",
+    "version": "3.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/is-docker/v/3.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/is-docker-3.0.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+        "bytes": 1117
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "is-fullwidth-code-point",
+    "version": "3.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/is-fullwidth-code-point/v/3.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/is-fullwidth-code-point-3.0.0/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+        "bytes": 1109
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "is-inside-container",
+    "version": "1.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/is-inside-container/v/1.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/is-inside-container-1.0.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+        "bytes": 1117
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "is-potential-custom-element-name",
+    "version": "1.0.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/is-potential-custom-element-name/v/1.0.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/is-potential-custom-element-name-1.0.1/LICENSE-MIT.txt",
+        "sha256": "483acb265f182907d1caf6cff9c16c96f31325ed23792832cc5d8b12d5f88c8a",
+        "bytes": 1077
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "is-wsl",
+    "version": "3.1.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/is-wsl/v/3.1.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/is-wsl-3.1.1/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+        "bytes": 1117
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "jake",
+    "version": "10.9.4",
+    "license": "Apache-2.0",
+    "source": "https://www.npmjs.com/package/jake/v/10.9.4",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/jake-10.9.4/README.md",
+        "sha256": "93154ff2b8dce8cdc59e182895fff255e36f6d850acb8d559db9df3e09ba8681",
+        "bytes": 556
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "js-tokens",
+    "version": "4.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/js-tokens/v/4.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/js-tokens-4.0.0/LICENSE",
+        "sha256": "2213d91c606205c71eb051a199478cdc2adde945893404d7f1421436dd6d5cc1",
+        "bytes": 1103
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "jsdom",
+    "version": "26.1.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/jsdom/v/26.1.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/jsdom-26.1.0/LICENSE.txt",
+        "sha256": "242d37e7cab25cbafc36cc973ee88f9345fddf066afe4f72b7ac3d9ad4e24cce",
+        "bytes": 1056
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "json-schema-traverse",
+    "version": "1.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/json-schema-traverse/v/1.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/json-schema-traverse-1.0.0/LICENSE",
+        "sha256": "7bf9b2de73a6b356761c948d0e9eeb4be6c1270bd04c79cd489c1e400ffdfc1a",
+        "bytes": 1074
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "lilconfig",
+    "version": "3.1.4",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/lilconfig/v/3.1.4",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/lilconfig-3.1.4/LICENSE",
+        "sha256": "d70f9e316930b4333b6f51af5f0d0cb7ded6a4a2641549aa088027aaff91e950",
+        "bytes": 1074
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "loose-envify",
+    "version": "1.4.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/loose-envify/v/1.4.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/loose-envify-1.4.0/LICENSE",
+        "sha256": "4eb7543b08d955a6d23fcc224601d43ff566e775be918805e26210d7f6eb4893",
+        "bytes": 1100
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "lru-cache",
+    "version": "10.4.3",
+    "license": "ISC",
+    "source": "https://www.npmjs.com/package/lru-cache/v/10.4.3",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/lru-cache-10.4.3/LICENSE",
+        "sha256": "451ec07eeb9c4e1b86de9abdaa426462a8be48f887ec7421cf0bbb9c769555ab",
+        "bytes": 775
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "marked",
+    "version": "15.0.12",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/marked/v/15.0.12",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/marked-15.0.12/LICENSE.md",
+        "sha256": "8e3a3f82f59a60958f56ca08f445647c32a4733dc7ca6c2c46f6eb898471ab9c",
+        "bytes": 2942
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "marked-highlight",
+    "version": "2.2.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/marked-highlight/v/2.2.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/marked-highlight-2.2.2/LICENSE",
+        "sha256": "a846b93fda6af8008a89d1394d827afc60d62eebb70c68efbfeeafe0b01928ed",
+        "bytes": 1066
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "minimatch",
+    "version": "10.2.6",
+    "license": "BlueOak-1.0.0",
+    "source": "https://www.npmjs.com/package/minimatch/v/10.2.6",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/minimatch-10.2.6/LICENSE.md",
+        "sha256": "2c7c5d22ed5a8ee968c64757710979afcd77438c48b4a265b94e615babd8a901",
+        "bytes": 1550
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "minimatch",
+    "version": "5.1.9",
+    "license": "ISC",
+    "source": "https://www.npmjs.com/package/minimatch/v/5.1.9",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/minimatch-5.1.9/LICENSE",
+        "sha256": "d11323827fa4edeaafc437cc5b91b6971b335f0127efeeb42bf5122fe8657e8f",
+        "bytes": 775
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "ms",
+    "version": "2.1.3",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/ms/v/2.1.3",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/ms-2.1.3/license.md",
+        "sha256": "1662fae9b5314d11cf51284e2dcd1f006a354f7343f08712a730fcff9a359801",
+        "bytes": 1079
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "mute-stream",
+    "version": "2.0.0",
+    "license": "ISC",
+    "source": "https://www.npmjs.com/package/mute-stream/v/2.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/mute-stream-2.0.0/LICENSE",
+        "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b",
+        "bytes": 765
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "nwsapi",
+    "version": "2.2.28",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/nwsapi/v/2.2.28",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/nwsapi-2.2.28/LICENSE",
+        "sha256": "2aebdf8ae67777ccb2fa66b32066c1a16bd71085011bb4085dc7408e2947d2c2",
+        "bytes": 1084
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "object-assign",
+    "version": "4.1.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/object-assign/v/4.1.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/object-assign-4.1.1/license",
+        "sha256": "6fb9754611c20f6649f68805e8c990e83261f29316e29de9e6cedae607b8634c",
+        "bytes": 1119
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "parse5",
+    "version": "7.3.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/parse5/v/7.3.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/parse5-7.3.0/LICENSE",
+        "sha256": "8c535800331e1e4439835555b3f9edc7fe9dee2fab0d8bbbd5a982e8b8343d4d",
+        "bytes": 1109
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "picocolors",
+    "version": "1.1.1",
+    "license": "ISC",
+    "source": "https://www.npmjs.com/package/picocolors/v/1.1.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/picocolors-1.1.1/LICENSE",
+        "sha256": "6582629e2979466878f6014313dcc2f3756c9616148682227ce3063dde310750",
+        "bytes": 787
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "picomatch",
+    "version": "4.0.7",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/picomatch/v/4.0.7",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/picomatch-4.0.7/LICENSE",
+        "sha256": "d0cd141b0c322fded5dfad1d4645bb2fedfc05b7321fe1009469638190d59ef9",
+        "bytes": 1091
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "powershell-utils",
+    "version": "0.1.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/powershell-utils/v/0.1.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/powershell-utils-0.1.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+        "bytes": 1117
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "punycode",
+    "version": "2.3.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/punycode/v/2.3.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/punycode-2.3.1/LICENSE-MIT.txt",
+        "sha256": "483acb265f182907d1caf6cff9c16c96f31325ed23792832cc5d8b12d5f88c8a",
+        "bytes": 1077
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "react",
+    "version": "18.3.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/react/v/18.3.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/react-18.3.1/LICENSE",
+        "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+        "bytes": 1086
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "react",
+    "version": "19.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/react/v/19.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/react-19.0.0/LICENSE",
+        "sha256": "da6d3703ed11cbe42bd212c725957c98da23cbff1998c05fa4b3d976d1a58e93",
+        "bytes": 1088
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "react-dom",
+    "version": "18.3.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/react-dom/v/18.3.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/react-dom-18.3.1/LICENSE",
+        "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+        "bytes": 1086
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "react-is",
+    "version": "18.3.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/react-is/v/18.3.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/react-is-18.3.1/LICENSE",
+        "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+        "bytes": 1086
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "react-shallow-renderer",
+    "version": "16.15.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/react-shallow-renderer/v/16.15.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/react-shallow-renderer-16.15.0/LICENSE",
+        "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+        "bytes": 1086
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "react-test-renderer",
+    "version": "18.3.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/react-test-renderer/v/18.3.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/react-test-renderer-18.3.1/LICENSE",
+        "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+        "bytes": 1086
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "require-from-string",
+    "version": "2.0.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/require-from-string/v/2.0.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/require-from-string-2.0.2/license",
+        "sha256": "6ee0feb1f6ef996ff5a68600f8cf98909cf412d39ef3cdceaefd87d636fa1b7f",
+        "bytes": 1128
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "rrweb-cssom",
+    "version": "0.8.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/rrweb-cssom/v/0.8.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/rrweb-cssom-0.8.0/LICENSE.txt",
+        "sha256": "e539937c489c4928ad7461669ec017f4d916fb3565fc26f5b8a0ce816d2ed23c",
+        "bytes": 1054
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "safer-buffer",
+    "version": "2.1.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/safer-buffer/v/2.1.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/safer-buffer-2.1.2/LICENSE",
+        "sha256": "4bc935e71be198c67ddf3c2b5fddb195f6edc182bfc155a96a6db61b44b494b9",
+        "bytes": 1094
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "saxes",
+    "version": "6.0.0",
+    "license": "ISC",
+    "source": "https://www.npmjs.com/package/saxes/v/6.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/saxes-6.0.0/LICENSE",
+        "sha256": "0fac2374380621b22e6b50451057721a9c52935b02d16d106a9f04897f061d0e",
+        "bytes": 3011,
+        "noticeSource": "https://raw.githubusercontent.com/lddubeau/saxes/v6.0.0/LICENSE"
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "scheduler",
+    "version": "0.23.2",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/scheduler/v/0.23.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/scheduler-0.23.2/LICENSE",
+        "sha256": "52412d7bc7ce4157ea628bbaacb8829e0a9cb3c58f57f99176126bc8cf2bfc85",
+        "bytes": 1086
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "semver",
+    "version": "7.8.5",
+    "license": "ISC",
+    "source": "https://www.npmjs.com/package/semver/v/7.8.5",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/semver-7.8.5/LICENSE",
+        "sha256": "4ec3d4c66cd87f5c8d8ad911b10f99bf27cb00cdfcff82621956e379186b016b",
+        "bytes": 765
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "signal-exit",
+    "version": "4.1.0",
+    "license": "ISC",
+    "source": "https://www.npmjs.com/package/signal-exit/v/4.1.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/signal-exit-4.1.0/LICENSE.txt",
+        "sha256": "b173e19b9a78df305577ace0e52ef45a4bcc915ea28b47b256dc3b68dcb1f7e7",
+        "bytes": 790
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "string-width",
+    "version": "4.2.3",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/string-width/v/4.2.3",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/string-width-4.2.3/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+        "bytes": 1109
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "strip-ansi",
+    "version": "6.0.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/strip-ansi/v/6.0.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/strip-ansi-6.0.1/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+        "bytes": 1109
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "supports-color",
+    "version": "8.1.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/supports-color/v/8.1.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/supports-color-8.1.1/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+        "bytes": 1117
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "symbol-tree",
+    "version": "3.2.4",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/symbol-tree/v/3.2.4",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/symbol-tree-3.2.4/LICENSE",
+        "sha256": "9ea1eccdabe469767a9edb9249a840b2461cf91b2434bf8a3e2fc1f414311cb1",
+        "bytes": 1084
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "tinyglobby",
+    "version": "0.2.17",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/tinyglobby/v/0.2.17",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/tinyglobby-0.2.17/LICENSE",
+        "sha256": "22c68811e174cbbfb3813d4135918df4f540959c14d872e601d9abe83d3cde8f",
+        "bytes": 1076
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "tldts",
+    "version": "6.1.86",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/tldts/v/6.1.86",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/tldts-6.1.86/LICENSE",
+        "sha256": "c64182d48160db948b6aa97a984f1a32974ce4d2053900361264cd33853796cb",
+        "bytes": 1078
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "tldts-core",
+    "version": "6.1.86",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/tldts-core/v/6.1.86",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/tldts-core-6.1.86/LICENSE",
+        "sha256": "c64182d48160db948b6aa97a984f1a32974ce4d2053900361264cd33853796cb",
+        "bytes": 1078
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "tough-cookie",
+    "version": "5.1.2",
+    "license": "BSD-3-Clause",
+    "source": "https://www.npmjs.com/package/tough-cookie/v/5.1.2",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/tough-cookie-5.1.2/LICENSE",
+        "sha256": "22ec6791c91ba42c0516a05f4cbdde019aae4687f8a38c5ca7e8a69ee68f851d",
+        "bytes": 1485
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "tr46",
+    "version": "5.1.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/tr46/v/5.1.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/tr46-5.1.1/LICENSE.md",
+        "sha256": "499d6d466d064e0460427967a344e2a32fcb86ea8c6cd1a285ec4f1fa03fba67",
+        "bytes": 1076
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "tsx",
+    "version": "4.23.15",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/tsx/v/4.23.15",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/tsx-4.23.15/LICENSE",
+        "sha256": "8dded67841a9261a622c739fb61c81785e93765de852828ceeb9403d20a74581",
+        "bytes": 1088
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "type-fest",
+    "version": "0.21.3",
+    "license": "(MIT OR CC0-1.0)",
+    "source": "https://www.npmjs.com/package/type-fest/v/0.21.3",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/type-fest-0.21.3/license",
+        "sha256": "64a93ffc0a06a2266dbb57ed7ebe3b56ba66ab337b6347fabdbf86c76819fbae",
+        "bytes": 1116
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "typescript",
+    "version": "5.9.3",
+    "license": "Apache-2.0",
+    "source": "https://www.npmjs.com/package/typescript/v/5.9.3",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/typescript-5.9.3/LICENSE.txt",
+        "sha256": "a7d00bfd54525bc694b6e32f64c7ebcf5e6b7ae3657be5cc12767bce74654a47",
+        "bytes": 9197
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "undici-types",
+    "version": "7.24.6",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/undici-types/v/7.24.6",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/undici-types-7.24.6/LICENSE",
+        "sha256": "a6db8096b2707bc0102d256917d4d33f298ba36d8c3f25de067a2b5bb379db27",
+        "bytes": 1090
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "w3c-xmlserializer",
+    "version": "5.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/w3c-xmlserializer/v/5.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/w3c-xmlserializer-5.0.0/LICENSE.md",
+        "sha256": "ab654de803cdaa9e2819ab2e934bdf7f757e308649ec231d78e80e92425cdc34",
+        "bytes": 1105
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "webidl-conversions",
+    "version": "7.0.0",
+    "license": "BSD-2-Clause",
+    "source": "https://www.npmjs.com/package/webidl-conversions/v/7.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/webidl-conversions-7.0.0/LICENSE.md",
+        "sha256": "a889cc4dbee2ae172c179856b25d75b0b7a5a136e1b97109b9b590b2ff1a879c",
+        "bytes": 1323
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "whatwg-encoding",
+    "version": "3.1.1",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/whatwg-encoding/v/3.1.1",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/whatwg-encoding-3.1.1/LICENSE.txt",
+        "sha256": "528eec83cb836a0adda9f8fc3d6a2a70a710d6cc0be9a155f92212c8df28acfa",
+        "bytes": 1069
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "whatwg-mimetype",
+    "version": "4.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/whatwg-mimetype/v/4.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/whatwg-mimetype-4.0.0/LICENSE.txt",
+        "sha256": "528eec83cb836a0adda9f8fc3d6a2a70a710d6cc0be9a155f92212c8df28acfa",
+        "bytes": 1069
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "whatwg-url",
+    "version": "14.2.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/whatwg-url/v/14.2.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/whatwg-url-14.2.0/LICENSE.txt",
+        "sha256": "db480f236292a093e77a83c35431a8496624e1e664a3547768a9ce2bdde39877",
+        "bytes": 1076
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "widest-line",
+    "version": "3.1.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/widest-line/v/3.1.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/widest-line-3.1.0/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+        "bytes": 1109
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "wordwrap",
+    "version": "1.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/wordwrap/v/1.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/wordwrap-1.0.0/LICENSE",
+        "sha256": "435a6722c786b0a56fbe7387028f1d9d3f3a2d0fb615bb8fee118727c3f59b7b",
+        "bytes": 1073
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "wrap-ansi",
+    "version": "6.2.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/wrap-ansi/v/6.2.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/wrap-ansi-6.2.0/license",
+        "sha256": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
+        "bytes": 1109
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "wrap-ansi",
+    "version": "7.0.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/wrap-ansi/v/7.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/wrap-ansi-7.0.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+        "bytes": 1117
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "ws",
+    "version": "8.22.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/ws/v/8.22.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/ws-8.22.0/LICENSE",
+        "sha256": "2b29dcfe0d6471f7e8c92c5fb38c9f93edee10330937055440192f1832b1ecef",
+        "bytes": 1183
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "wsl-utils",
+    "version": "0.4.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/wsl-utils/v/0.4.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/wsl-utils-0.4.0/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+        "bytes": 1117
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "xml-name-validator",
+    "version": "5.0.0",
+    "license": "Apache-2.0",
+    "source": "https://www.npmjs.com/package/xml-name-validator/v/5.0.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/xml-name-validator-5.0.0/LICENSE.txt",
+        "sha256": "a6cba85bc92e0cff7a450b1d873c0eaa2e9fc96bf472df0247a26bec77bf3ff9",
+        "bytes": 10173
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "xmlchars",
+    "version": "2.2.0",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/xmlchars/v/2.2.0",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/xmlchars-2.2.0/LICENSE",
+        "sha256": "45d196313c2647d313cc65ca9b093d2d6974b64d35ee7346f2c60c9d518dff2c",
+        "bytes": 1086
+      }
+    ]
+  },
+  {
+    "ecosystem": "npm",
+    "name": "yoctocolors-cjs",
+    "version": "2.1.3",
+    "license": "MIT",
+    "source": "https://www.npmjs.com/package/yoctocolors-cjs/v/2.1.3",
+    "files": [
+      {
+        "path": "licenses/dependencies/npm/yoctocolors-cjs-2.1.3/license",
+        "sha256": "5c932d88256b4ab958f64a856fa48e8bd1f55bc1d96b8149c65689e0c61789d3",
+        "bytes": 1117
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "addr2line",
+    "version": "0.25.1",
+    "license": "Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/addr2line-0.25.1/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/addr2line-0.25.1/LICENSE-MIT",
+        "sha256": "e99d88d232bf57d70f0fb87f6b496d44b6653f99f8a63d250a54c61ea4bcde40",
+        "bytes": 1069
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "adler2",
+    "version": "2.0.1",
+    "license": "0BSD OR MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/adler2-2.0.1/LICENSE-0BSD",
+        "sha256": "861399f8c21c042b110517e76dc6b63a2b334276c8cf17412fc3c8908ca8dc17",
+        "bytes": 665
+      },
+      {
+        "path": "licenses/dependencies/rust/adler2-2.0.1/LICENSE-APACHE",
+        "sha256": "8ada45cd9f843acf64e4722ae262c622a2b3b3007c7310ef36ac1061a30f6adb",
+        "bytes": 10860
+      },
+      {
+        "path": "licenses/dependencies/rust/adler2-2.0.1/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "backtrace",
+    "version": "0.3.76",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/backtrace-0.3.76/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/backtrace-0.3.76/LICENSE-MIT",
+        "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397",
+        "bytes": 1057
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "bitflags",
+    "version": "2.13.2",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/bitflags-2.13.2/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/bitflags-2.13.2/LICENSE-MIT",
+        "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb",
+        "bytes": 1071
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "cfg-if",
+    "version": "1.0.5",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/cfg-if-1.0.5/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/cfg-if-1.0.5/LICENSE-MIT",
+        "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397",
+        "bytes": 1057
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "errno",
+    "version": "0.3.14",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/errno-0.3.14/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/errno-0.3.14/LICENSE-MIT",
+        "sha256": "8764a597675778ddfd4e25f81b08a05dbcf089ac05662df7613fe67f150e3aa2",
+        "bytes": 1054
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "fastrand",
+    "version": "2.5.0",
+    "license": "Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/fastrand-2.5.0/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/fastrand-2.5.0/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "getrandom",
+    "version": "0.3.4",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/getrandom-0.3.4/LICENSE-APACHE",
+        "sha256": "aaff376532ea30a0cd5330b9502ad4a4c8bf769c539c87ffe78819d188a18ebf",
+        "bytes": 10849
+      },
+      {
+        "path": "licenses/dependencies/rust/getrandom-0.3.4/LICENSE-MIT",
+        "sha256": "29e9fe5074bd27e0e5d5d110394fbbcd841baee2651a3c4b4560a632702cede4",
+        "bytes": 1130
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "gimli",
+    "version": "0.32.3",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/gimli-0.32.3/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/gimli-0.32.3/LICENSE-MIT",
+        "sha256": "7b63ecd5f1902af1b63729947373683c32745c16a10e8e6292e2e2dcd7e90ae0",
+        "bytes": 1071
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "itoa",
+    "version": "1.0.18",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/itoa-1.0.18/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+        "bytes": 9723
+      },
+      {
+        "path": "licenses/dependencies/rust/itoa-1.0.18/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "libc",
+    "version": "0.2.191",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/libc-0.2.191/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+        "bytes": 9723
+      },
+      {
+        "path": "licenses/dependencies/rust/libc-0.2.191/LICENSE-MIT",
+        "sha256": "123a331b5dbf04c30097fa43b8f858bc85df671fe776de498d01f3d6b7c1f69e",
+        "bytes": 1066
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "linux-raw-sys",
+    "version": "0.12.1",
+    "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/linux-raw-sys-0.12.1/COPYRIGHT",
+        "sha256": "3290ae0fbc9ddb77d2239121d710f0bb9d31b3b4744e6d97fe01e652b4c1870b",
+        "bytes": 881
+      },
+      {
+        "path": "licenses/dependencies/rust/linux-raw-sys-0.12.1/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/linux-raw-sys-0.12.1/LICENSE-Apache-2.0_WITH_LLVM-exception",
+        "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5",
+        "bytes": 12243
+      },
+      {
+        "path": "licenses/dependencies/rust/linux-raw-sys-0.12.1/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "log",
+    "version": "0.4.27",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/log-0.4.27/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/log-0.4.27/LICENSE-MIT",
+        "sha256": "6485b8ed310d3f0340bf1ad1f47645069ce4069dcc6bb46c7d5c6faf41de1fdb",
+        "bytes": 1071
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "memchr",
+    "version": "2.8.3",
+    "license": "Unlicense OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/memchr-2.8.3/COPYING",
+        "sha256": "01c266bced4a434da0051174d6bee16a4c82cf634e2679b6155d40d75012390f",
+        "bytes": 126
+      },
+      {
+        "path": "licenses/dependencies/rust/memchr-2.8.3/LICENSE-MIT",
+        "sha256": "0f96a83840e146e43c0ec96a22ec1f392e0680e6c1226e6f3ba87e0740af850f",
+        "bytes": 1081
+      },
+      {
+        "path": "licenses/dependencies/rust/memchr-2.8.3/UNLICENSE",
+        "sha256": "7e12e5df4bae12cb21581ba157ced20e1986a0508dd10d0e8a4ab9a4cf94e85c",
+        "bytes": 1211
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "miniz_oxide",
+    "version": "0.8.9",
+    "license": "MIT OR Zlib OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/miniz_oxide-0.8.9/LICENSE",
+        "sha256": "4108245a1f2df9d4e94df8abed5b4ba0759bb2f9b40a6b939f1be141077ae50b",
+        "bytes": 1213
+      },
+      {
+        "path": "licenses/dependencies/rust/miniz_oxide-0.8.9/LICENSE-APACHE.md",
+        "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+        "bytes": 10174
+      },
+      {
+        "path": "licenses/dependencies/rust/miniz_oxide-0.8.9/LICENSE-MIT.md",
+        "sha256": "799e9ca9d179295ef372f25d3769cdda7d25bb2668add6a6a1e22d1e4c678b8d",
+        "bytes": 1212
+      },
+      {
+        "path": "licenses/dependencies/rust/miniz_oxide-0.8.9/LICENSE-ZLIB.md",
+        "sha256": "0a54e647fe54104658b5e563c04c6f9edf251710e47bce692e0bd990a4ddaa39",
+        "bytes": 984
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "object",
+    "version": "0.37.3",
+    "license": "Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/object-0.37.3/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/object-0.37.3/LICENSE-MIT",
+        "sha256": "0b74dfa0bcee5c420c6b7f67b4b2658f9ab8388c97b8e733975f2cecbdd668a6",
+        "bytes": 1064
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "once_cell",
+    "version": "1.21.4",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/once_cell-1.21.4/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/once_cell-1.21.4/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "pin-project-lite",
+    "version": "0.2.17",
+    "license": "Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/pin-project-lite-0.2.17/LICENSE-APACHE",
+        "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594",
+        "bytes": 10174
+      },
+      {
+        "path": "licenses/dependencies/rust/pin-project-lite-0.2.17/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "proc-macro2",
+    "version": "1.0.107",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/proc-macro2-1.0.107/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+        "bytes": 9723
+      },
+      {
+        "path": "licenses/dependencies/rust/proc-macro2-1.0.107/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "quote",
+    "version": "1.0.47",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/quote-1.0.47/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+        "bytes": 9723
+      },
+      {
+        "path": "licenses/dependencies/rust/quote-1.0.47/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "r-efi",
+    "version": "5.3.0",
+    "license": "MIT OR Apache-2.0 OR LGPL-2.1-or-later",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/r-efi-5.3.0/README.md",
+        "sha256": "420f65fec3ba2e89d49da51b222d2881d26959037a7b7d3794143db4bd4627b1",
+        "bytes": 2919
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "rustc-demangle",
+    "version": "0.1.28",
+    "license": "MIT/Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/rustc-demangle-0.1.28/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/rustc-demangle-0.1.28/LICENSE-MIT",
+        "sha256": "378f5840b258e2779c39418f3f2d7b2ba96f1c7917dd6be0713f88305dbda397",
+        "bytes": 1057
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "rustix",
+    "version": "1.1.5",
+    "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/rustix-1.1.5/COPYRIGHT",
+        "sha256": "377c2e7c53250cc5905c0b0532d35973392af16ffb9596a41d99d202cf3617c9",
+        "bytes": 853
+      },
+      {
+        "path": "licenses/dependencies/rust/rustix-1.1.5/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/rustix-1.1.5/LICENSE-Apache-2.0_WITH_LLVM-exception",
+        "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5",
+        "bytes": 12243
+      },
+      {
+        "path": "licenses/dependencies/rust/rustix-1.1.5/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "ryu",
+    "version": "1.0.23",
+    "license": "Apache-2.0 OR BSL-1.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/ryu-1.0.23/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+        "bytes": 9723
+      },
+      {
+        "path": "licenses/dependencies/rust/ryu-1.0.23/LICENSE-BOOST",
+        "sha256": "c9bff75738922193e67fa726fa225535870d2aa1059f91452c411736284ad566",
+        "bytes": 1338
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "serde",
+    "version": "1.0.229",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/serde-1.0.229/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+        "bytes": 9723
+      },
+      {
+        "path": "licenses/dependencies/rust/serde-1.0.229/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "serde_core",
+    "version": "1.0.229",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/serde_core-1.0.229/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+        "bytes": 9723
+      },
+      {
+        "path": "licenses/dependencies/rust/serde_core-1.0.229/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "serde_derive",
+    "version": "1.0.229",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/serde_derive-1.0.229/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+        "bytes": 9723
+      },
+      {
+        "path": "licenses/dependencies/rust/serde_derive-1.0.229/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "serde_json",
+    "version": "1.0.140",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/serde_json-1.0.140/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+        "bytes": 9723
+      },
+      {
+        "path": "licenses/dependencies/rust/serde_json-1.0.140/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "syn",
+    "version": "2.0.119",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/syn-2.0.119/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+        "bytes": 9723
+      },
+      {
+        "path": "licenses/dependencies/rust/syn-2.0.119/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "syn",
+    "version": "3.0.9",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/syn-3.0.9/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+        "bytes": 9723
+      },
+      {
+        "path": "licenses/dependencies/rust/syn-3.0.9/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "tempfile",
+    "version": "3.19.1",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/tempfile-3.19.1/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/tempfile-3.19.1/LICENSE-MIT",
+        "sha256": "8b427f5bc501764575e52ba4f9d95673cf8f6d80a86d0d06599852e1a9a20a36",
+        "bytes": 1056
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "tokio",
+    "version": "1.44.2",
+    "license": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/tokio-1.44.2/LICENSE",
+        "sha256": "253cd04c6714889df2d32f3f64d669179a1c95c76ac43c40882c52eb06bc3552",
+        "bytes": 1070
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "tokio-macros",
+    "version": "2.5.0",
+    "license": "MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/tokio-macros-2.5.0/LICENSE",
+        "sha256": "0b83dc40cba89b9922bb84b0a9c7d2768ce37c1d7e138b7424fd4549915778c9",
+        "bytes": 1102
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "unicode-ident",
+    "version": "1.0.27",
+    "license": "(MIT OR Apache-2.0) AND Unicode-3.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/unicode-ident-1.0.27/LICENSE-APACHE",
+        "sha256": "62c7a1e35f56406896d7aa7ca52d0cc0d272ac022b5d2796e7d6905db8a3636a",
+        "bytes": 9723
+      },
+      {
+        "path": "licenses/dependencies/rust/unicode-ident-1.0.27/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      },
+      {
+        "path": "licenses/dependencies/rust/unicode-ident-1.0.27/LICENSE-UNICODE",
+        "sha256": "f7db81051789b729fea528a63ec4c938fdcb93d9d61d97dc8cc2e9df6d47f2a1",
+        "bytes": 1995
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "uuid",
+    "version": "1.16.0",
+    "license": "Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/uuid-1.16.0/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/uuid-1.16.0/LICENSE-MIT",
+        "sha256": "436bc5a105d8e57dcd8778730f3754f7bf39c14d2f530e4cde4bd2d17a83ec3d",
+        "bytes": 1157
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "wasip2",
+    "version": "1.0.4+wasi-0.2.12",
+    "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/wasip2-1.0.4+wasi-0.2.12/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/wasip2-1.0.4+wasi-0.2.12/LICENSE-Apache-2.0_WITH_LLVM-exception",
+        "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5",
+        "bytes": 12243
+      },
+      {
+        "path": "licenses/dependencies/rust/wasip2-1.0.4+wasi-0.2.12/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "windows-link",
+    "version": "0.2.1",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/windows-link-0.2.1/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+        "bytes": 11351
+      },
+      {
+        "path": "licenses/dependencies/rust/windows-link-0.2.1/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "windows-sys",
+    "version": "0.59.0",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/windows-sys-0.59.0/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+        "bytes": 11351
+      },
+      {
+        "path": "licenses/dependencies/rust/windows-sys-0.59.0/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "windows-sys",
+    "version": "0.61.2",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/windows-sys-0.61.2/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+        "bytes": 11351
+      },
+      {
+        "path": "licenses/dependencies/rust/windows-sys-0.61.2/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "windows-targets",
+    "version": "0.52.6",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/windows-targets-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+        "bytes": 11351
+      },
+      {
+        "path": "licenses/dependencies/rust/windows-targets-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "windows_aarch64_gnullvm",
+    "version": "0.52.6",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/windows_aarch64_gnullvm-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+        "bytes": 11351
+      },
+      {
+        "path": "licenses/dependencies/rust/windows_aarch64_gnullvm-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "windows_aarch64_msvc",
+    "version": "0.52.6",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/windows_aarch64_msvc-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+        "bytes": 11351
+      },
+      {
+        "path": "licenses/dependencies/rust/windows_aarch64_msvc-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "windows_i686_gnu",
+    "version": "0.52.6",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/windows_i686_gnu-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+        "bytes": 11351
+      },
+      {
+        "path": "licenses/dependencies/rust/windows_i686_gnu-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "windows_i686_gnullvm",
+    "version": "0.52.6",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/windows_i686_gnullvm-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+        "bytes": 11351
+      },
+      {
+        "path": "licenses/dependencies/rust/windows_i686_gnullvm-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "windows_i686_msvc",
+    "version": "0.52.6",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/windows_i686_msvc-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+        "bytes": 11351
+      },
+      {
+        "path": "licenses/dependencies/rust/windows_i686_msvc-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "windows_x86_64_gnu",
+    "version": "0.52.6",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/windows_x86_64_gnu-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+        "bytes": 11351
+      },
+      {
+        "path": "licenses/dependencies/rust/windows_x86_64_gnu-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "windows_x86_64_gnullvm",
+    "version": "0.52.6",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/windows_x86_64_gnullvm-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+        "bytes": 11351
+      },
+      {
+        "path": "licenses/dependencies/rust/windows_x86_64_gnullvm-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "windows_x86_64_msvc",
+    "version": "0.52.6",
+    "license": "MIT OR Apache-2.0",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/windows_x86_64_msvc-0.52.6/license-apache-2.0",
+        "sha256": "c16f8dcf1a368b83be78d826ea23de4079fe1b4469a0ab9ee20563f37ff3d44b",
+        "bytes": 11351
+      },
+      {
+        "path": "licenses/dependencies/rust/windows_x86_64_msvc-0.52.6/license-mit",
+        "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383",
+        "bytes": 1141
+      }
+    ]
+  },
+  {
+    "ecosystem": "rust",
+    "name": "wit-bindgen",
+    "version": "0.57.1",
+    "license": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+    "source": "registry+https://github.com/rust-lang/crates.io-index",
+    "files": [
+      {
+        "path": "licenses/dependencies/rust/wit-bindgen-0.57.1/LICENSE-APACHE",
+        "sha256": "a60eea817514531668d7e00765731449fe14d059d3249e0bc93b36de45f759f2",
+        "bytes": 10847
+      },
+      {
+        "path": "licenses/dependencies/rust/wit-bindgen-0.57.1/LICENSE-Apache-2.0_WITH_LLVM-exception",
+        "sha256": "268872b9816f90fd8e85db5a28d33f8150ebb8dd016653fb39ef1f94f2686bc5",
+        "bytes": 12243
+      },
+      {
+        "path": "licenses/dependencies/rust/wit-bindgen-0.57.1/LICENSE-MIT",
+        "sha256": "23f18e03dc49df91622fe2a76176497404e46ced8a715d9d2b67a7446571cca3",
+        "bytes": 1023
+      }
+    ]
+  }
+]

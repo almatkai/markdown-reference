@@ -1,0 +1,19 @@
+[package]
+name = "tezbar-markdown-reference"
+version = "0.2.0"
+edition = "2021"
+rust-version = "1.85"
+license = "MIT AND Apache-2.0 AND CC-BY-SA-4.0"
+description = "Offline Markdown Reference core and compiled Tezbar Native V2 adapter"
+repository = "https://github.com/almatkai/markdown-reference"
+include = [
+  "/src/**", "/adapter/**", "/data/**", "/fixtures/**", "/assets/**", "/licenses/**",
+  "/tests/*.rs", "/tests/*.json", "/tests/beta-harness/Cargo.template.toml", "/tests/beta-harness/Cargo.template.lock",
+  "/tests/beta-harness/harness.rs", "/tests/beta-harness/src/**/*.rs", "/tests/beta-harness/tests/*.rs", "/tests/beta-harness/examples/*.rs",
+  "/tests/beta-host/Cargo.template.toml", "/tests/tauri-stub/Cargo.template.toml", "/tests/tauri-stub/src/*.rs",
+  "/tools/*.cjs", "/tools/*.py", "/tools/package.json", "/tools/pnpm-lock.yaml", "/tools/v1-validation-pnpm-lock.yaml",
+  "/*.md", "/*.json", "/Cargo.toml", "/Cargo.lock", "/.gitignore"
+]
+
+[dependencies]
+serde_json = "=1.0.140"

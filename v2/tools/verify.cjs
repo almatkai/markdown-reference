@@ -1,0 +1,13 @@
+const fs=require('node:fs');const path=require('node:path');const assert=require('node:assert/strict');const crypto=require('node:crypto');const Ajv=require('ajv/dist/2020').default;
+const root=path.resolve(__dirname,'..');const read=p=>fs.readFileSync(path.join(root,p));const json=p=>JSON.parse(read(p));const hash=b=>crypto.createHash('sha256').update(b).digest('hex');
+const pin=json('provenance.json');assert.equal(pin.ownSource,'6933819bb52944ac5db4c517f932ffa24a95497e');
+for(const record of pin.files){const b=read(record.path);assert.equal(b.length,record.bytes,record.path);assert.equal(hash(b),record.sha256,record.path);}
+for(const p of ['assets/markdown-reference.png','fixtures/own/assets/logo.png']){assert.equal(read(p).length,8159);assert.equal(hash(read(p)),'fe30cefd83f704a1b406a56c7b145676a62fee1f3733f1af68d9863dcd6f4a90');}
+assert.deepEqual(read('licenses/OWN-MIT.txt'),read('fixtures/own/LICENSE'));assert.deepEqual(read('licenses/UPSTREAM-MIT.txt'),read('fixtures/upstream/LICENSE'));assert.deepEqual(read('licenses/BETA-APACHE-2.0.txt'),read('fixtures/beta/LICENSE'));
+const schema=json('fixtures/beta/schemas/extension-v2.schema.json');const validate=new Ajv({strict:false,allErrors:true}).compile(schema);const m=json('extension-v2.json');assert.ok(validate(m),JSON.stringify(validate.errors));
+assert.equal(validate({...m,author:'unsupported'}),false);assert.equal(validate({...m,runtime:'javascript'}),false);assert.equal(validate({...m,icon:'/public/markdown-reference.png'}),false);
+const own=json('fixtures/own/package.json');assert.equal(m.id,'com.tezbar.native.markdown-reference');assert.deepEqual(m.replaces,['raycast.markdown-reference']);assert.deepEqual(m.platforms,own.platforms);assert.equal(m.commands.length,own.commands.length);for(let i=0;i<m.commands.length;i++){const {runtime,...command}=m.commands[i];assert.equal(runtime,'rust');assert.deepEqual(command,own.commands[i]);}
+assert.deepEqual(m.verification.map(v=>[v.platform,v.state]),[['macOS','not-run'],['Windows','not-run']]);assert.equal(json('fixtures/upstream/package.json').author,'codedbyjordan');assert.ok(m.description.includes('codedbyjordan')&&m.description.includes('ridemountainpig')&&m.description.includes('almatkai'));
+for(const dep of json('licenses/dependencies.json'))for(const file of dep.files){const b=read(file.path);assert.equal(b.length,file.bytes,file.path);assert.equal(hash(b),file.sha256,file.path);}
+for(const e of json('licenses/data-provenance.json').evidence)if(e.path)assert.equal(hash(read(e.path)),e.sha256);
+console.log(`Full beta schema, negative schema cases, original command/platform metadata, ${pin.files.length} pinned source/license fixtures, and exact icon bytes verified`);
