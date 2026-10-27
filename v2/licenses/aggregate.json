@@ -1,0 +1,1371 @@
+{
+  "packageFiles": "MIT AND Apache-2.0 AND CC-BY-SA-4.0",
+  "withAllValidationDependencies": "Apache-2.0 AND BSD-2-Clause AND BSD-3-Clause AND BlueOak-1.0.0 AND CC-BY-SA-4.0 AND ISC AND MIT AND MIT-0 AND Unicode-3.0",
+  "choices": [
+    {
+      "ecosystem": "npm",
+      "name": "@asamuzakjp/css-color",
+      "version": "3.2.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@csstools/color-helpers",
+      "version": "5.1.0",
+      "declared": "MIT-0",
+      "selected": "MIT-0"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@csstools/css-calc",
+      "version": "2.1.4",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@csstools/css-color-parser",
+      "version": "3.1.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@csstools/css-parser-algorithms",
+      "version": "3.0.5",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@csstools/css-tokenizer",
+      "version": "3.0.4",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@esbuild/darwin-arm64",
+      "version": "0.25.12",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@esbuild/darwin-arm64",
+      "version": "0.27.7",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@esbuild/darwin-arm64",
+      "version": "0.28.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/ansi",
+      "version": "1.0.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/checkbox",
+      "version": "4.3.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/confirm",
+      "version": "5.1.21",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/core",
+      "version": "10.3.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/editor",
+      "version": "4.2.23",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/expand",
+      "version": "4.0.23",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/external-editor",
+      "version": "1.0.3",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/figures",
+      "version": "1.0.15",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/input",
+      "version": "4.3.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/number",
+      "version": "3.0.23",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/password",
+      "version": "4.0.23",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/prompts",
+      "version": "7.10.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/rawlist",
+      "version": "4.1.11",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/search",
+      "version": "3.2.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/select",
+      "version": "4.4.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@inquirer/type",
+      "version": "3.0.10",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@oclif/core",
+      "version": "4.14.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@oclif/plugin-autocomplete",
+      "version": "3.3.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@oclif/plugin-help",
+      "version": "6.3.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@oclif/plugin-not-found",
+      "version": "3.3.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@raycast/api",
+      "version": "1.104.25",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@types/node",
+      "version": "24.19.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@types/react",
+      "version": "19.3.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@types/react-dom",
+      "version": "19.3.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "@types/trusted-types",
+      "version": "2.0.7",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "agent-base",
+      "version": "7.1.4",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "ajv",
+      "version": "8.17.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "ansi-escapes",
+      "version": "4.3.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "ansi-regex",
+      "version": "5.0.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "ansi-styles",
+      "version": "4.3.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "ansis",
+      "version": "3.17.0",
+      "declared": "ISC",
+      "selected": "ISC"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "async",
+      "version": "3.2.6",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "balanced-match",
+      "version": "1.0.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "balanced-match",
+      "version": "4.0.4",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "brace-expansion",
+      "version": "2.1.7",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "brace-expansion",
+      "version": "5.0.12",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "chardet",
+      "version": "2.2.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "clean-stack",
+      "version": "3.0.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "cli-spinners",
+      "version": "2.9.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "cli-width",
+      "version": "4.1.0",
+      "declared": "ISC",
+      "selected": "ISC"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "color-convert",
+      "version": "2.0.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "color-name",
+      "version": "1.1.4",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "cssstyle",
+      "version": "4.6.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "csstype",
+      "version": "3.2.3",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "data-urls",
+      "version": "5.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "debug",
+      "version": "4.4.3",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "decimal.js",
+      "version": "10.6.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "dompurify",
+      "version": "3.2.6",
+      "declared": "(MPL-2.0 OR Apache-2.0)",
+      "selected": "Apache-2.0"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "ejs",
+      "version": "3.1.10",
+      "declared": "Apache-2.0",
+      "selected": "Apache-2.0"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "ejs",
+      "version": "6.0.1",
+      "declared": "Apache-2.0",
+      "selected": "Apache-2.0"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "emoji-regex",
+      "version": "8.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "entities",
+      "version": "6.0.1",
+      "declared": "BSD-2-Clause",
+      "selected": "BSD-2-Clause"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "esbuild",
+      "version": "0.25.12",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "esbuild",
+      "version": "0.27.7",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "esbuild",
+      "version": "0.28.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "escape-string-regexp",
+      "version": "4.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "fast-deep-equal",
+      "version": "3.1.3",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "fast-levenshtein",
+      "version": "3.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "fast-uri",
+      "version": "3.1.9",
+      "declared": "BSD-3-Clause",
+      "selected": "BSD-3-Clause"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "fastest-levenshtein",
+      "version": "1.0.16",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "fdir",
+      "version": "6.5.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "filelist",
+      "version": "1.0.6",
+      "declared": "Apache-2.0",
+      "selected": "Apache-2.0"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "fsevents",
+      "version": "2.3.3",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "get-package-type",
+      "version": "0.1.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "has-flag",
+      "version": "4.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "highlight.js",
+      "version": "11.11.1",
+      "declared": "BSD-3-Clause",
+      "selected": "BSD-3-Clause"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "html-encoding-sniffer",
+      "version": "4.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "http-proxy-agent",
+      "version": "7.0.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "https-proxy-agent",
+      "version": "7.0.6",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "iconv-lite",
+      "version": "0.6.3",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "iconv-lite",
+      "version": "0.7.3",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "indent-string",
+      "version": "4.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "is-docker",
+      "version": "3.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "is-fullwidth-code-point",
+      "version": "3.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "is-inside-container",
+      "version": "1.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "is-potential-custom-element-name",
+      "version": "1.0.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "is-wsl",
+      "version": "3.1.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "jake",
+      "version": "10.9.4",
+      "declared": "Apache-2.0",
+      "selected": "Apache-2.0"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "js-tokens",
+      "version": "4.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "jsdom",
+      "version": "26.1.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "json-schema-traverse",
+      "version": "1.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "lilconfig",
+      "version": "3.1.4",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "loose-envify",
+      "version": "1.4.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "lru-cache",
+      "version": "10.4.3",
+      "declared": "ISC",
+      "selected": "ISC"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "marked",
+      "version": "15.0.12",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "marked-highlight",
+      "version": "2.2.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "minimatch",
+      "version": "10.2.6",
+      "declared": "BlueOak-1.0.0",
+      "selected": "BlueOak-1.0.0"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "minimatch",
+      "version": "5.1.9",
+      "declared": "ISC",
+      "selected": "ISC"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "ms",
+      "version": "2.1.3",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "mute-stream",
+      "version": "2.0.0",
+      "declared": "ISC",
+      "selected": "ISC"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "nwsapi",
+      "version": "2.2.28",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "object-assign",
+      "version": "4.1.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "parse5",
+      "version": "7.3.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "picocolors",
+      "version": "1.1.1",
+      "declared": "ISC",
+      "selected": "ISC"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "picomatch",
+      "version": "4.0.7",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "powershell-utils",
+      "version": "0.1.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "punycode",
+      "version": "2.3.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "react",
+      "version": "18.3.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "react",
+      "version": "19.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "react-dom",
+      "version": "18.3.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "react-is",
+      "version": "18.3.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "react-shallow-renderer",
+      "version": "16.15.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "react-test-renderer",
+      "version": "18.3.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "require-from-string",
+      "version": "2.0.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "rrweb-cssom",
+      "version": "0.8.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "safer-buffer",
+      "version": "2.1.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "saxes",
+      "version": "6.0.0",
+      "declared": "ISC",
+      "selected": "ISC"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "scheduler",
+      "version": "0.23.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "semver",
+      "version": "7.8.5",
+      "declared": "ISC",
+      "selected": "ISC"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "signal-exit",
+      "version": "4.1.0",
+      "declared": "ISC",
+      "selected": "ISC"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "string-width",
+      "version": "4.2.3",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "strip-ansi",
+      "version": "6.0.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "supports-color",
+      "version": "8.1.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "symbol-tree",
+      "version": "3.2.4",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "tinyglobby",
+      "version": "0.2.17",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "tldts",
+      "version": "6.1.86",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "tldts-core",
+      "version": "6.1.86",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "tough-cookie",
+      "version": "5.1.2",
+      "declared": "BSD-3-Clause",
+      "selected": "BSD-3-Clause"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "tr46",
+      "version": "5.1.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "tsx",
+      "version": "4.23.15",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "type-fest",
+      "version": "0.21.3",
+      "declared": "(MIT OR CC0-1.0)",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "typescript",
+      "version": "5.9.3",
+      "declared": "Apache-2.0",
+      "selected": "Apache-2.0"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "undici-types",
+      "version": "7.24.6",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "w3c-xmlserializer",
+      "version": "5.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "webidl-conversions",
+      "version": "7.0.0",
+      "declared": "BSD-2-Clause",
+      "selected": "BSD-2-Clause"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "whatwg-encoding",
+      "version": "3.1.1",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "whatwg-mimetype",
+      "version": "4.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "whatwg-url",
+      "version": "14.2.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "widest-line",
+      "version": "3.1.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "wordwrap",
+      "version": "1.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "wrap-ansi",
+      "version": "6.2.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "wrap-ansi",
+      "version": "7.0.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "ws",
+      "version": "8.22.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "wsl-utils",
+      "version": "0.4.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "xml-name-validator",
+      "version": "5.0.0",
+      "declared": "Apache-2.0",
+      "selected": "Apache-2.0"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "xmlchars",
+      "version": "2.2.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "npm",
+      "name": "yoctocolors-cjs",
+      "version": "2.1.3",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "addr2line",
+      "version": "0.25.1",
+      "declared": "Apache-2.0 OR MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "adler2",
+      "version": "2.0.1",
+      "declared": "0BSD OR MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "backtrace",
+      "version": "0.3.76",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "bitflags",
+      "version": "2.13.2",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "cfg-if",
+      "version": "1.0.5",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "errno",
+      "version": "0.3.14",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "fastrand",
+      "version": "2.5.0",
+      "declared": "Apache-2.0 OR MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "getrandom",
+      "version": "0.3.4",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "gimli",
+      "version": "0.32.3",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "itoa",
+      "version": "1.0.18",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "libc",
+      "version": "0.2.191",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "linux-raw-sys",
+      "version": "0.12.1",
+      "declared": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "log",
+      "version": "0.4.27",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "memchr",
+      "version": "2.8.3",
+      "declared": "Unlicense OR MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "miniz_oxide",
+      "version": "0.8.9",
+      "declared": "MIT OR Zlib OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "object",
+      "version": "0.37.3",
+      "declared": "Apache-2.0 OR MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "once_cell",
+      "version": "1.21.4",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "pin-project-lite",
+      "version": "0.2.17",
+      "declared": "Apache-2.0 OR MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "proc-macro2",
+      "version": "1.0.107",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "quote",
+      "version": "1.0.47",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "r-efi",
+      "version": "5.3.0",
+      "declared": "MIT OR Apache-2.0 OR LGPL-2.1-or-later",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "rustc-demangle",
+      "version": "0.1.28",
+      "declared": "MIT/Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "rustix",
+      "version": "1.1.5",
+      "declared": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "ryu",
+      "version": "1.0.23",
+      "declared": "Apache-2.0 OR BSL-1.0",
+      "selected": "Apache-2.0"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "serde",
+      "version": "1.0.229",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "serde_core",
+      "version": "1.0.229",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "serde_derive",
+      "version": "1.0.229",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "serde_json",
+      "version": "1.0.140",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "syn",
+      "version": "2.0.119",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "syn",
+      "version": "3.0.9",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "tempfile",
+      "version": "3.19.1",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "tokio",
+      "version": "1.44.2",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "tokio-macros",
+      "version": "2.5.0",
+      "declared": "MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "unicode-ident",
+      "version": "1.0.27",
+      "declared": "(MIT OR Apache-2.0) AND Unicode-3.0",
+      "selected": "MIT AND Unicode-3.0"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "uuid",
+      "version": "1.16.0",
+      "declared": "Apache-2.0 OR MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "wasip2",
+      "version": "1.0.4+wasi-0.2.12",
+      "declared": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "windows-link",
+      "version": "0.2.1",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "windows-sys",
+      "version": "0.59.0",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "windows-sys",
+      "version": "0.61.2",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "windows-targets",
+      "version": "0.52.6",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "windows_aarch64_gnullvm",
+      "version": "0.52.6",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "windows_aarch64_msvc",
+      "version": "0.52.6",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "windows_i686_gnu",
+      "version": "0.52.6",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "windows_i686_gnullvm",
+      "version": "0.52.6",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "windows_i686_msvc",
+      "version": "0.52.6",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "windows_x86_64_gnu",
+      "version": "0.52.6",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "windows_x86_64_gnullvm",
+      "version": "0.52.6",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "windows_x86_64_msvc",
+      "version": "0.52.6",
+      "declared": "MIT OR Apache-2.0",
+      "selected": "MIT"
+    },
+    {
+      "ecosystem": "rust",
+      "name": "wit-bindgen",
+      "version": "0.57.1",
+      "declared": "Apache-2.0 WITH LLVM-exception OR Apache-2.0 OR MIT",
+      "selected": "MIT"
+    }
+  ]
+}
