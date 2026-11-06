@@ -2,6 +2,28 @@
 
 Search a compact Markdown syntax reference from Tezbar.
 
+## Downloads
+
+Standalone Rust process package **0.3.0**.
+
+| Platform | Download |
+|---|---|
+| macOS, Apple silicon | [ZIP](https://github.com/almatkai/markdown-reference/releases/download/v0.3.0/markdown-reference-aarch64-apple-darwin.zip) |
+| Windows x64 | [ZIP](https://github.com/almatkai/markdown-reference/releases/download/v0.3.0/markdown-reference-x86_64-pc-windows-msvc.zip) |
+
+Download the [installation reference](https://github.com/almatkai/markdown-reference/releases/download/v0.3.0/extension-release.json), [checksums](https://github.com/almatkai/markdown-reference/releases/download/v0.3.0/SHA256SUMS) and [validation record](https://github.com/almatkai/markdown-reference/releases/download/v0.3.0/validation.json). The reference pins the archive and executable for each target.
+
+With the Tezbar CLI, import the matching ZIP:
+
+```sh
+# macOS
+tezbar --extensions-v3-import extension-release.json markdown-reference-aarch64-apple-darwin.zip
+# Windows
+tezbar.exe --extensions-v3-import extension-release.json markdown-reference-x86_64-pc-windows-msvc.zip
+```
+
+Both native packages passed extracted-process checks and actual CLI installation in isolated profiles. Desktop/WebView acceptance is still unverified. Store discovery requires a Tezbar catalog update; the download does not imply that this app update has shipped.
+
 ## Installable native Rust version
 
 The root `extension.json` describes the standalone Rust process package

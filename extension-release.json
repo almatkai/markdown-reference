@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 3,
+  "id": "com.tezbar.native.markdown-reference",
+  "slug": "markdown-reference",
+  "name": "Markdown Reference",
+  "version": "0.3.0",
+  "description": "Markdown documentation at your fingertips",
+  "author": "almatkai",
+  "icon": "resources/assets/logo.png",
+  "runtime": "rust",
+  "execution": "process",
+  "protocolVersion": 1,
+  "repository": "https://github.com/almatkai/markdown-reference",
+  "replaces": [
+    "raycast.markdown-reference"
+  ],
+  "platforms": [
+    "macOS",
+    "Windows"
+  ],
+  "preferences": [],
+  "commands": [
+    {
+      "name": "markdown-reference",
+      "title": "Search Markdown Syntax",
+      "description": "Quickly search up how to format with Markdown",
+      "mode": "view",
+      "platforms": [
+        "macOS",
+        "Windows"
+      ],
+      "runtime": "rust",
+      "concurrency": "serialize",
+      "refreshMs": null
+    }
+  ],
+  "capabilities": [],
+  "artifacts": {
+    "aarch64-apple-darwin": {
+      "sha256": "3d5534c292444b41dfc1ecbec65f0dac4920889135a583dd01112ef9ec256211",
+      "executable": "bin/tezbar-markdown-reference",
+      "executableSha256": "ff52a518a396ac3f234f01b3b4e3545c2f18f314b0da34c30c77190f31896d2f",
+      "url": "https://github.com/almatkai/markdown-reference/releases/download/v0.3.0/markdown-reference-aarch64-apple-darwin.zip"
+    },
+    "x86_64-pc-windows-msvc": {
+      "sha256": "e4879d47313ad11f38de2a8ff9602e9b6ec59d2e5c6653af6dac65be6f4ea23b",
+      "executable": "bin/tezbar-markdown-reference.exe",
+      "executableSha256": "a619bf193d28702b739b15cbfdb20182e160142cdbaf600e22fbd77469c90769",
+      "url": "https://github.com/almatkai/markdown-reference/releases/download/v0.3.0/markdown-reference-x86_64-pc-windows-msvc.zip"
+    }
+  },
+  "files": {},
+  "verification": [
+    {
+      "platform": "macOS",
+      "state": "not-run",
+      "note": "Real desktop installation and UI QA require separate platform acceptance; headless checks do not establish desktop acceptance."
+    },
+    {
+      "platform": "Windows",
+      "state": "not-run",
+      "note": "Real desktop installation and UI QA require separate platform acceptance; headless checks do not establish desktop acceptance."
+    }
+  ]
+}
