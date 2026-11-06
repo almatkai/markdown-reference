@@ -35,13 +35,13 @@ def smoke(path):
         binary_name = 'bin/tezbar-' + manifest['slug'] + ('.exe' if os.name == 'nt' else '')
         target = 'x86_64-pc-windows-msvc' if os.name == 'nt' else 'aarch64-apple-darwin'
         base = path.parent / (manifest['slug'] + '-' + target)
-        artifact = json.loads(Path(str(base) + '.artifact.json').read_text())
+        artifact = json.loads(Path(str(base) + '.artifact.json').read_text(encoding="utf-8"))
         archive_sha = hashlib.sha256(path.read_bytes()).hexdigest()
         assert artifact == {'target': target, 'sha256': archive_sha,
                             'executable': binary_name, 'executableSha256': inventory[binary_name]}
-        assert Path(str(path) + '.sha256').read_text().strip() == archive_sha + '  ' + path.name
-        assert Path(str(base) + '.executable.sha256').read_text().strip() == inventory[binary_name] + '  ' + binary_name
-        assert json.loads(Path(str(base) + '.manifest.json').read_text()) == manifest
+        assert Path(str(path) + '.sha256').read_text(encoding="utf-8").strip() == archive_sha + '  ' + path.name
+        assert Path(str(base) + '.executable.sha256').read_text(encoding="utf-8").strip() == inventory[binary_name] + '  ' + binary_name
+        assert json.loads(Path(str(base) + '.manifest.json').read_text(encoding="utf-8")) == manifest
         assert archive.getinfo(binary_name).external_attr >> 16 & 0o111, 'Missing executable mode'
         required = ['LICENSE', 'NOTICE', manifest['icon'], 'licenses/dependency-license-index.json',
                     'licenses/OWN-MIT.txt', 'licenses/UPSTREAM-MIT.txt', 'licenses/CC-BY-SA-4.0.txt']

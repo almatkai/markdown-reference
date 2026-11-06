@@ -147,7 +147,7 @@ def list_view(result, names, query=''):
 
 
 def exercise(binary, manifest, workdir):
-    oracle = json.loads((ROOT / 'v2/tests/oracle.json').read_text())
+    oracle = json.loads((ROOT / 'v2/tests/oracle.json').read_text(encoding="utf-8"))
     names = [r['name'] for r in oracle['references']]
     info = json.loads(subprocess.check_output([str(binary.resolve()), '--protocol-info'], timeout=10))
     assert info == {'id': manifest['id'], 'version': manifest['version'], 'protocol': 1,
@@ -303,7 +303,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('binary', type=Path)
     args = parser.parse_args()
-    manifest = json.loads((ROOT / 'extension.json').read_text())
+    manifest = json.loads((ROOT / 'extension.json').read_text(encoding="utf-8"))
     with tempfile.TemporaryDirectory() as temp:
         exercise(args.binary, manifest, temp)
         malformed_probes(args.binary, manifest, temp)

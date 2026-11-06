@@ -7,14 +7,14 @@ TARGETS={'aarch64-apple-darwin':False,'x86_64-pc-windows-msvc':True}
 def digest(path): return hashlib.sha256(path.read_bytes()).hexdigest()
 def check_sdk():
     import re
-    text=(ROOT/'Cargo.toml').read_text()
+    text=(ROOT/'Cargo.toml').read_text(encoding="utf-8")
     match=re.search(r'^tezbar-extension-sdk\s*=\s*\{([^}\n]*)\}',text,re.M)
     fields=match.group(1) if match else ''
     revision=re.search(r'\brev\s*=\s*"([0-9a-fA-F]{40})"',fields)
     if not revision or re.search(r'\b(path|branch|tag)\s*=',fields) or not re.search(r'\bgit\s*=\s*"https://github.com/[^" ]+"',fields):
         raise SystemExit('Release blocked: parent must pin the SDK to an approved immutable git revision and regenerate Cargo.lock. See README.md.')
     assert revision.group(1) == 'aaec571673ab64a85a136cf6bd054ef660c4d93c', 'Unapproved SDK revision'
-    lock=(ROOT/'Cargo.lock').read_text()
+    lock=(ROOT/'Cargo.lock').read_text(encoding="utf-8")
     entry=re.search(r'\[\[package\]\]\nname = "tezbar-extension-sdk"(.*?)(?=\[\[package\]\]|\Z)',lock,re.S)
     if not entry or not re.search(r'source = "git\+[^"\n]+#'+revision.group(1)+r'"',entry.group(1)):
         raise SystemExit('Release blocked: Cargo.lock must contain the same immutable SDK git revision.')
@@ -22,7 +22,7 @@ def check_sdk():
 def build(target,binary,output):
     check_sdk()
     subprocess.run([os.sys.executable, str(ROOT/"scripts/vendor-licenses.py"), "--check"], cwd=ROOT, check=True)
-    manifest=json.loads((ROOT/'extension.json').read_text());slug=manifest['slug'];executable=f'bin/tezbar-{slug}'+('.exe' if TARGETS[target] else '')
+    manifest=json.loads((ROOT/'extension.json').read_text(encoding="utf-8"));slug=manifest['slug'];executable=f'bin/tezbar-{slug}'+('.exe' if TARGETS[target] else '')
     info=json.loads(subprocess.check_output([str(binary.resolve()),'--protocol-info'],timeout=10))
     assert info['id']==manifest['id'] and info['version']==manifest['version'] and info['protocol']==1,'Binary identity mismatch'
     platform='Windows' if TARGETS[target] else 'macOS'
@@ -55,7 +55,7 @@ def build(target,binary,output):
         manifest['files']=files
         # Parent supplies real published archive URL/digests to the trusted host catalog.
         manifest['artifacts']={}
-        (stage/'extension.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n')
+        (stage/'extension.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2)+'\n', encoding="utf-8")
         archive=output/f'{slug}-{target}.zip'
         with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED) as z:
             for path in sorted(stage.rglob('*')):
@@ -72,10 +72,10 @@ def build(target,binary,output):
             assert set(z.namelist())==set(files)|{'extension.json'}
             for name,sha in packaged['files'].items():assert hashlib.sha256(z.read(name)).hexdigest()==sha
         artifact={'target':target,'sha256':digest(archive),'executable':executable,'executableSha256':files[executable]}
-        (output/f'{slug}-{target}.artifact.json').write_text(json.dumps(artifact,indent=2)+'\n')
-        (output/f'{archive.name}.sha256').write_text(f"{artifact['sha256']}  {archive.name}\n")
-        (output/f'{slug}-{target}.executable.sha256').write_text(f"{files[executable]}  {executable}\n")
-        (output/f'{slug}-{target}.manifest.json').write_text(json.dumps(manifest, indent=2)+'\n')
+        (output/f'{slug}-{target}.artifact.json').write_text(json.dumps(artifact,indent=2)+'\n', encoding="utf-8")
+        (output/f'{archive.name}.sha256').write_text(f"{artifact['sha256']}  {archive.name}\n", encoding="utf-8")
+        (output/f'{slug}-{target}.executable.sha256').write_text(f"{files[executable]}  {executable}\n", encoding="utf-8")
+        (output/f'{slug}-{target}.manifest.json').write_text(json.dumps(manifest, indent=2)+'\n', encoding="utf-8")
         print(archive)
 if __name__=='__main__':
     parser=argparse.ArgumentParser();parser.add_argument('--target',required=True,choices=TARGETS);parser.add_argument('--binary',required=True,type=Path);parser.add_argument('--output',type=Path,default=ROOT/'dist')
