@@ -1,0 +1,3 @@
+# Preserve upstream legal documents byte for byte on Windows as well as macOS.
+/LICENSE -text
+licenses/** -text whitespace=-blank-at-eof
