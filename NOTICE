@@ -1,0 +1,25 @@
+Markdown Reference — standalone Rust process package
+
+Port code: Copyright (c) almatkai, MIT. The original own LICENSE is
+preserved byte for byte in LICENSE and licenses/OWN-MIT.txt; a readable
+port notice is in licenses/PORT-MIT.txt.
+
+Raycast original: codedbyjordan, contributor ridemountainpig.
+Copyright (c) 2022 Raycast Technologies Ltd, MIT; licenses/UPSTREAM-MIT.txt.
+Original source revision: 6734d85992290066fd31a7f5bee3cca3d3545a1a.
+Owned source revision: 6933819bb52944ac5db4c517f932ffa24a95497e.
+
+Markdown reference prose/examples: Markdown Guide, Matt Cone and contributors,
+https://www.markdownguide.org/, CC BY-SA 4.0. Adaptations include selection,
+formatting, JSON representation and escaped presentation. Preserve attribution
+and ShareAlike for the content and its adaptations. Full terms and retrieval
+evidence: licenses/CC-BY-SA-4.0.txt and licenses/data-provenance.json.
+
+Tezbar extension SDK: Copyright 2026 Almat, Apache-2.0, immutable revision
+aaec571673ab64a85a136cf6bd054ef660c4d93c. Its original LICENSE and NOTICE ship
+under licenses/crates/tezbar-extension-sdk-0.1.1/.
+
+Original runtime/build dependency license, copyright and notice documents for
+both targets ship under licenses/crates/. The exact dependency/target/digest
+inventory is licenses/dependency-license-index.json, with a readable index at
+licenses/THIRD_PARTY.md. No JavaScript runtime or beta-host fixture is packaged.

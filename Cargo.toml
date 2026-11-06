@@ -1,0 +1,22 @@
+[package]
+name = "tezbar-markdown-reference-process"
+version = "0.3.0"
+edition = "2021"
+rust-version = "1.85"
+license = "MIT AND CC-BY-SA-4.0"
+description = "Standalone Markdown Reference Tezbar process extension"
+repository = "https://github.com/almatkai/markdown-reference"
+
+[[bin]]
+name = "tezbar-markdown-reference"
+path = "native-src/main.rs"
+
+[[test]]
+name = "v2-parity"
+path = "v2/tests/parity.rs"
+
+[dependencies]
+serde_json = "=1.0.140"
+tokio = { version = "1", features = ["rt-multi-thread"] }
+tezbar-markdown-reference = { path = "v2" }
+tezbar-extension-sdk = { git = "https://github.com/almatkai/tezbar-extension-sdk-rust.git", rev = "aaec571673ab64a85a136cf6bd054ef660c4d93c" }
